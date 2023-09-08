@@ -59,8 +59,95 @@ namespace elso
 
             }
 
+            Console.WriteLine();
 
 
+            double szamW = 1;
+
+            while(szamW < 5)
+            {
+                Console.WriteLine(szamW);
+                szamW += .1;
+            }
+
+            Console.WriteLine();
+
+            do
+            {
+                Console.WriteLine(szamW);
+                szamW -= .2;
+            }
+            while (szamW > 1);
+
+            Console.WriteLine();
+
+            Console.WriteLine((int)('a'));
+
+            Console.WriteLine();
+
+            int betu = 97;
+
+            while (betu <= 'z')
+            {
+                
+                Console.Write((char)betu);
+                betu += 1;
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+
+            int karakter2 = 32;
+            int tag = 0;
+            while (karakter2 <= 255)
+            {
+                
+                if (tag < 8)
+                {
+                    Console.Write((char)(karakter2)+"  ");
+                    karakter2 += 1;
+                    tag += 1;
+                }
+                else
+                {
+                    Console.WriteLine();
+                    tag = 0;
+                }
+                
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write(i);
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+
+            int osszeg = 0;
+            int iszam = 100;
+            for (int e = 100; e < 1000; e++)
+            {
+                osszeg += iszam;
+                iszam += 1;
+            }
+
+            Console.WriteLine(osszeg);
+            Console.WriteLine();
+
+            for (int i = 9; i >= 0; i--)
+            {
+                Console.Write(i);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write(9-i);
+            }
+            Console.WriteLine();
         }
     }
 }

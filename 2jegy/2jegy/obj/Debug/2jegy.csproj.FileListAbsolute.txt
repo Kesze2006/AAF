@@ -5,3 +5,10 @@ D:\Dunsz\Feladatok\2jegy\2jegy\bin\Debug\2jegy.exe
 D:\Dunsz\Feladatok\2jegy\2jegy\bin\Debug\2jegy.pdb
 D:\Dunsz\Feladatok\2jegy\2jegy\obj\Debug\2jegy.exe
 D:\Dunsz\Feladatok\2jegy\2jegy\obj\Debug\2jegy.pdb
+D:\Proba Dolgok\AAF\2jegy\2jegy\bin\Debug\2jegy.exe.config
+D:\Proba Dolgok\AAF\2jegy\2jegy\bin\Debug\2jegy.exe
+D:\Proba Dolgok\AAF\2jegy\2jegy\bin\Debug\2jegy.pdb
+D:\Proba Dolgok\AAF\2jegy\2jegy\obj\Debug\2jegy.csproj.AssemblyReference.cache
+D:\Proba Dolgok\AAF\2jegy\2jegy\obj\Debug\2jegy.csproj.CoreCompileInputs.cache
+D:\Proba Dolgok\AAF\2jegy\2jegy\obj\Debug\2jegy.exe
+D:\Proba Dolgok\AAF\2jegy\2jegy\obj\Debug\2jegy.pdb

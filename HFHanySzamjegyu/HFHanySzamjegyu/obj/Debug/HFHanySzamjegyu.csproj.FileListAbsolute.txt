@@ -1,0 +1,7 @@
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\bin\Debug\HFHanySzamjegyu.exe.config
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\bin\Debug\HFHanySzamjegyu.exe
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\bin\Debug\HFHanySzamjegyu.pdb
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\obj\Debug\HFHanySzamjegyu.csproj.AssemblyReference.cache
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\obj\Debug\HFHanySzamjegyu.csproj.CoreCompileInputs.cache
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\obj\Debug\HFHanySzamjegyu.exe
+D:\Dunsz\Feladatok\HFHanySzamjegyu\HFHanySzamjegyu\obj\Debug\HFHanySzamjegyu.pdb

@@ -1,0 +1,2 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Feladat\Feladat\obj\Debug\Feladat.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Feladat\Feladat\obj\Debug\Feladat.csproj.CoreCompileInputs.cache

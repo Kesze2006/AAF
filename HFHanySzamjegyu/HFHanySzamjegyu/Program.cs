@@ -28,7 +28,6 @@ namespace HFHanySzamjegyu
                 Console.WriteLine();
             }
             int szamjegy = 0;
-            Console.WriteLine(szam);
             if (szam == 0)
             {
                 szamjegy += 1;

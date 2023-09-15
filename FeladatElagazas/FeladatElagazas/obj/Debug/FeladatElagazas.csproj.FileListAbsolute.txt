@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\bin\Debug\FeladatElagazas.exe.config
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\bin\Debug\FeladatElagazas.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\bin\Debug\FeladatElagazas.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\obj\Debug\FeladatElagazas.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\obj\Debug\FeladatElagazas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\obj\Debug\FeladatElagazas.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FeladatElagazas\FeladatElagazas\obj\Debug\FeladatElagazas.pdb

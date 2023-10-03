@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\bin\Debug\MertekEgyseg.exe.config
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\bin\Debug\MertekEgyseg.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\bin\Debug\MertekEgyseg.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\obj\Debug\MertekEgyseg.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\obj\Debug\MertekEgyseg.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\obj\Debug\MertekEgyseg.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\MertekEgyseg\MertekEgyseg\obj\Debug\MertekEgyseg.pdb

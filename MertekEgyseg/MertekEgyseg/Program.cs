@@ -10,6 +10,7 @@ namespace MertekEgyseg
     {
         static void Main(string[] args)
         {
+            string[] hosszusag = { "mm","cm","dm","m","km" };
             double szam = 0;
             bool jo = false;
             while(!jo)
@@ -36,9 +37,25 @@ namespace MertekEgyseg
                     continue;
                 }
                 Console.WriteLine(szam);
+                if (hosszusag.Contains(darab[1]))
+                {
+
+                }
+                else
+                {
+                    Console.WriteLine("Nem jó mértékegység!");
+                    jo = false;
+                    continue;
+                }
 
             }
-
+            Console.WriteLine("Mire szeretnéd átváltani?");
+            for (int i = 0; i < hosszusag.Length; i++)
+            {
+                Console.WriteLine(hosszusag[i]);
+            }
+            Console.Write("Válassz: ");
+            string valasz = Console.ReadLine();
         }
     }
 }

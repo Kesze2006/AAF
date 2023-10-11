@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\bin\Debug\net6.0\Tomb.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\bin\Debug\net6.0\Tomb.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\bin\Debug\net6.0\Tomb.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\bin\Debug\net6.0\Tomb.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\bin\Debug\net6.0\Tomb.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\refint\Tomb.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\Tomb.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Tomb\Tomb\obj\Debug\net6.0\ref\Tomb.dll

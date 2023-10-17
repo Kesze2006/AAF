@@ -28,16 +28,3 @@ for (int i = 0; i < tabla.GetLength(0); i++)
     }
     Console.WriteLine();
 }
-foreach (string szo in tabla)
-{
-    int szam = 0;
-    if (szam < 3)
-    {
-        Console.Write(szo + " ");
-        szam++;
-    }
-    else {
-        Console.Write(szo + " ");
-        Console.WriteLine();
-    }
-}

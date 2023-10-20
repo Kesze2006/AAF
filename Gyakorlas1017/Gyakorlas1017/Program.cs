@@ -72,7 +72,7 @@ void szakasz2(int[] szamok)
     int maxVeg = 0;
     for (int i = 1; i < szamok.Length; i++)
     {
-        if (szamok[i - 1] >= szamok[i])
+        if (szamok[i - 1] < szamok[i])
         {
 
         }
@@ -93,4 +93,35 @@ void szakasz2(int[] szamok)
     }
     Console.WriteLine();
 }
+void szakasz3(int[] szamok)
+{
+    int kezd = 0;
+    int veg = 0;
+    int maxKezd = 0;
+    int maxVeg = 0;
+    for (int i = 1; i < szamok.Length; i++)
+    {
+        if (szamok[i - 1] >= szamok[i])
+        {
+
+        }
+        else
+        {
+            veg = i - 1;
+            if (veg - kezd + 1 > maxVeg - maxKezd + 1)
+            {
+                maxVeg = veg;
+                maxKezd = kezd;
+            }
+            kezd = i;
+
+        }
+    }
+    for (int i = maxKezd; i < maxVeg + 1; i++)
+    {
+        Console.Write("{0}, ", szamok[i]);
+    }
+    Console.WriteLine();
+}
 szakasz2(szamok);
+szakasz3(szamok);

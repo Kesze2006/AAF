@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\bin\Debug\net6.0\StringGyak.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\bin\Debug\net6.0\StringGyak.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\bin\Debug\net6.0\StringGyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\bin\Debug\net6.0\StringGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\bin\Debug\net6.0\StringGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\refint\StringGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\StringGyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\StringGyak\StringGyak\obj\Debug\net6.0\ref\StringGyak.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\Gyakorlas1024\\Gyakorlas1024\\Gyakorlas1024.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\FajlKezelesGyak\\FajlKezelesGyak\\FajlKezelesGyak.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\Gyakorlas1024\\Gyakorlas1024\\Gyakorlas1024.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\FajlKezelesGyak\\FajlKezelesGyak\\FajlKezelesGyak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\Gyakorlas1024\\Gyakorlas1024\\Gyakorlas1024.csproj",
-        "projectName": "Gyakorlas1024",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\Gyakorlas1024\\Gyakorlas1024\\Gyakorlas1024.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\FajlKezelesGyak\\FajlKezelesGyak\\FajlKezelesGyak.csproj",
+        "projectName": "FajlKezelesGyak",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\FajlKezelesGyak\\FajlKezelesGyak\\FajlKezelesGyak.csproj",
         "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\Gyakorlas1024\\Gyakorlas1024\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Keszericze Ákos\\AAF\\FajlKezelesGyak\\FajlKezelesGyak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\bin\Debug\net6.0\FajlKezelesGyak.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\bin\Debug\net6.0\FajlKezelesGyak.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\bin\Debug\net6.0\FajlKezelesGyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\bin\Debug\net6.0\FajlKezelesGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\bin\Debug\net6.0\FajlKezelesGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\refint\FajlKezelesGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\FajlKezelesGyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FajlKezelesGyak\FajlKezelesGyak\obj\Debug\net6.0\ref\FajlKezelesGyak.dll

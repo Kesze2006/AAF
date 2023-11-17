@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\bin\Debug\net6.0\GyakList.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\bin\Debug\net6.0\GyakList.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\bin\Debug\net6.0\GyakList.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\bin\Debug\net6.0\GyakList.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\bin\Debug\net6.0\GyakList.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\refint\GyakList.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\GyakList.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GyakList\obj\Debug\net6.0\ref\GyakList.dll

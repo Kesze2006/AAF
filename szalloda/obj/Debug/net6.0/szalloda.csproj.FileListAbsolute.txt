@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\bin\Debug\net6.0\szalloda.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\bin\Debug\net6.0\szalloda.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\bin\Debug\net6.0\szalloda.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\bin\Debug\net6.0\szalloda.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\bin\Debug\net6.0\szalloda.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\refint\szalloda.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\szalloda.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\szalloda\obj\Debug\net6.0\ref\szalloda.dll

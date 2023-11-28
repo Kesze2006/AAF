@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\bin\Debug\net6.0\Dolgozat.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\bin\Debug\net6.0\Dolgozat.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\bin\Debug\net6.0\Dolgozat.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\bin\Debug\net6.0\Dolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\bin\Debug\net6.0\Dolgozat.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\refint\Dolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\Dolgozat.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Dolgozat\obj\Debug\net6.0\ref\Dolgozat.dll

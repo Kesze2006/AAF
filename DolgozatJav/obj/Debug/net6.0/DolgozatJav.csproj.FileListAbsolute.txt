@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\bin\Debug\net6.0\DolgozatJav.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\bin\Debug\net6.0\DolgozatJav.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\bin\Debug\net6.0\DolgozatJav.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\bin\Debug\net6.0\DolgozatJav.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\bin\Debug\net6.0\DolgozatJav.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\refint\DolgozatJav.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\DolgozatJav.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\DolgozatJav\obj\Debug\net6.0\ref\DolgozatJav.dll

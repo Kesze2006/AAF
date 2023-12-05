@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\bin\Debug\net6.0\kkisDolgozat.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\bin\Debug\net6.0\kkisDolgozat.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\bin\Debug\net6.0\kkisDolgozat.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\bin\Debug\net6.0\kkisDolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\bin\Debug\net6.0\kkisDolgozat.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\refint\kkisDolgozat.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\kkisDolgozat.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\kkisDolgozat\obj\Debug\net6.0\ref\kkisDolgozat.dll

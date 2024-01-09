@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\bin\Debug\net6.0\OOPGyak.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\bin\Debug\net6.0\OOPGyak.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\bin\Debug\net6.0\OOPGyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\bin\Debug\net6.0\OOPGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\bin\Debug\net6.0\OOPGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\refint\OOPGyak.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\OOPGyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\OOPGyak\obj\Debug\net6.0\ref\OOPGyak.dll

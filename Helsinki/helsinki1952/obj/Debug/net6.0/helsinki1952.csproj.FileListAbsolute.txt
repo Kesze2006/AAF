@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\bin\Debug\net6.0\helsinki1952.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\bin\Debug\net6.0\helsinki1952.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\bin\Debug\net6.0\helsinki1952.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\bin\Debug\net6.0\helsinki1952.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\bin\Debug\net6.0\helsinki1952.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\refint\helsinki1952.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\helsinki1952.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\Helsinki\helsinki1952\obj\Debug\net6.0\ref\helsinki1952.dll

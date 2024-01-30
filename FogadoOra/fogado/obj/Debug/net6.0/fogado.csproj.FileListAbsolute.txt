@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\bin\Debug\net6.0\fogado.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\bin\Debug\net6.0\fogado.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\bin\Debug\net6.0\fogado.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\bin\Debug\net6.0\fogado.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\bin\Debug\net6.0\fogado.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\refint\fogado.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\fogado.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\FogadoOra\fogado\obj\Debug\net6.0\ref\fogado.dll

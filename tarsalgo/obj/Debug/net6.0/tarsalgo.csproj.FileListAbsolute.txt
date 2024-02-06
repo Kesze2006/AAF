@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\bin\Debug\net6.0\tarsalgo.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\bin\Debug\net6.0\tarsalgo.deps.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\bin\Debug\net6.0\tarsalgo.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\bin\Debug\net6.0\tarsalgo.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\bin\Debug\net6.0\tarsalgo.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\refint\tarsalgo.dll
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\tarsalgo.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\tarsalgo\obj\Debug\net6.0\ref\tarsalgo.dll

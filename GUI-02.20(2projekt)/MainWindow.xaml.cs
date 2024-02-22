@@ -29,8 +29,11 @@ namespace GUI_02._20_2projekt_
         {
             int osszeg = Convert.ToInt32(elsoSzam.Text) + Convert.ToInt32(masodikSzam.Text);
             kijelzo.Text = osszeg.ToString();
-            muveletek.Text += elsoSzam.Text + "+" + masodikSzam.Text + "=" + osszeg.ToString()+"\n";
-            
+            muveletek.Text = elsoSzam.Text + "+" + masodikSzam.Text + "=" + osszeg.ToString()+"\n"+muveletek.Text;
+
+            elsoSzam.Text = "";
+            masodikSzam.Text = "";
+
         }
     }
 }

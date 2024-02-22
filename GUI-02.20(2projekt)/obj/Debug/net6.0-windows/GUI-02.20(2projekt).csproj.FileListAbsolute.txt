@@ -18,3 +18,24 @@ D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GUI-02.20(2projekt)\obj\Debug\net6
 D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).pdb
 D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).genruntimeconfig.cache
 D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\ref\GUI-02.20(2projekt).dll
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\bin\Debug\net6.0-windows\GUI-02.20(2projekt).exe
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\bin\Debug\net6.0-windows\GUI-02.20(2projekt).deps.json
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\bin\Debug\net6.0-windows\GUI-02.20(2projekt).runtimeconfig.json
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\bin\Debug\net6.0-windows\GUI-02.20(2projekt).dll
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\bin\Debug\net6.0-windows\GUI-02.20(2projekt).pdb
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\App.g.cs
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt)_MarkupCompile.cache
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt)_MarkupCompile.lref
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).g.resources
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).AssemblyInfoInputs.cache
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).AssemblyInfo.cs
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).csproj.CoreCompileInputs.cache
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).sourcelink.json
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).dll
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\refint\GUI-02.20(2projekt).dll
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).pdb
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\GUI-02.20(2projekt).genruntimeconfig.cache
+C:\Ákos\Suli\C#\AAF\GUI-02.20(2projekt)\obj\Debug\net6.0-windows\ref\GUI-02.20(2projekt).dll

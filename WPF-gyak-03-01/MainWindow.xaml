@@ -1,0 +1,77 @@
+﻿<Window x:Class="WPF_gyak_03_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_gyak_03_01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Első">
+                <Grid Background="#FFA95A5A" Margin="-9,0,6,117" Height="303">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="7*"/>
+                        <ColumnDefinition Width="61*"/>
+                        <ColumnDefinition Width="487*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Margin="0,18,2,62" RenderTransformOrigin="0.507,0.516" Grid.ColumnSpan="2">
+                        <Label Content="Label"/>
+                        <CheckBox Content="CheckBox"/>
+                    </StackPanel>
+                    <RadioButton Grid.Column="2" Content="RadioButton" HorizontalAlignment="Left" Margin="10,227,0,0" VerticalAlignment="Top" GroupName="a"/>
+                    <Image Grid.Column="2" HorizontalAlignment="Left" Height="209" Margin="273,46,0,0" VerticalAlignment="Top" Width="373" Source="/kecskemet.jpg"/>
+                    <ScrollBar Grid.Column="2" HorizontalAlignment="Left" Margin="582,151,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Második">
+                <Grid Background="#FFE5E5E5" Margin="0,0,2,0" Height="406">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="12*"/>
+                        <ColumnDefinition Width="251*"/>
+                    </Grid.ColumnDefinitions>
+                    <DockPanel LastChildFill="False" Grid.ColumnSpan="2" Margin="0,0,530,0" Background="#FFC52E2E"/>
+                    <WrapPanel Margin="142,0,0,203" Grid.Column="1" Background="#FF194167">
+                        <Button Content="Button" Height="68" Width="131"/>
+                    </WrapPanel>
+                    <StackPanel Margin="142,203,0,0" Grid.Column="1" Background="#FF8E1B6F">
+                        <CheckBox Content="CheckBox" Background="#FF2DB329"/>
+                    </StackPanel>
+                    <CheckBox Grid.Column="1" Content="CheckBox" HorizontalAlignment="Left" Margin="57,134,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Harmadik">
+                <Grid Background="#FFE5E5E5" Margin="0,0,-4,0" Height="406">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="12*"/>
+                        <ColumnDefinition Width="251*"/>
+                    </Grid.ColumnDefinitions>
+                    <WrapPanel Background="#FFD4C3C3" Margin="54,20,541,143" Grid.Column="1" Orientation="Vertical">
+                        <RadioButton x:Name="l" Content="a" GroupName="a"/>
+                        <RadioButton x:Name="a" Content="b" Height="15" Width="85" GroupName="a"/>
+                        <RadioButton x:Name="k" Content="c" Height="15" Width="85" GroupName="a"/>
+                        <RadioButton x:Name="s" Content="d" Height="15" Width="85" GroupName="b"/>
+                        <RadioButton x:Name="d" Content="e" Height="15" Width="85" GroupName="b"/>
+                        <RadioButton x:Name="f" Content="f" Height="15" Width="85" GroupName="b"/>
+                        <RadioButton x:Name="g" Content="g" Height="15" Width="85"/>
+                    </WrapPanel>
+                    <WrapPanel Margin="475,30,59,100" Background="#FFD89999" Grid.Column="1" RenderTransformOrigin="0.5,0.5" Orientation="Vertical">
+                        <WrapPanel.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-0.01"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </WrapPanel.RenderTransform>
+                        <RadioButton Content="RadioButton" GroupName="g5"/>
+                        <RadioButton Content="RadioButton" GroupName="g5"/>
+                        <RadioButton Content="RadioButton" GroupName="a"/>
+                    </WrapPanel>
+                </Grid>
+            </TabItem>
+            <ScrollBar/>
+        </TabControl>
+
+    </Grid>
+</Window>

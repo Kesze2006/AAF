@@ -15,6 +15,20 @@
         <TextBlock x:Name="textblock" HorizontalAlignment="Left" Margin="91,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.51,0.464" Grid.ColumnSpan="2"/>
         <Button x:Name="gomb2" Content="3. Feladat" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" Click="gomb2_Click"/>
         <TextBlock x:Name="textblock2" Grid.Column="1" HorizontalAlignment="Left" Margin="0,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Táncok:" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listbox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="91,103,514,152" Grid.ColumnSpan="2" SelectionChanged="listbox_SelectionChanged"/>
+        <Label x:Name="valami" Grid.Column="1" Content="Vlami" HorizontalAlignment="Left" Margin="8,32,0,0" VerticalAlignment="Top" Height="59" Width="109" FontSize="36" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.005"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="valamivil" Grid.Column="1" Content="4. feladat" HorizontalAlignment="Left" Margin="284,56,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listbox2" Grid.Column="1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="250,103,250,152" SelectionChanged="listbox2_SelectionChanged"/>
 
     </Grid>
 </Window>

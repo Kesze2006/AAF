@@ -104,5 +104,24 @@ namespace latinTancok
             }
             valamivil.Content = partner;
         }
+
+        private void _6gomb_Click(object sender, RoutedEventArgs e)
+        {
+            HashSet<string> lanyok = new HashSet<string>();
+            HashSet<string> fiuk = new HashSet<string>();
+
+            for (int i = 0; i < tancok.Count; i++)
+            {
+                lanyok.Add(tancok[i].lany);
+                fiuk.Add(tancok[i].fiu);
+            }
+
+            StreamWriter ir = new StreamWriter("szereplok.txt");
+
+            ir.WriteLine("Lányok: {0}",string.Join(", ",lanyok));
+            ir.WriteLine("Fiúk: " + string.Join(", ",fiuk));
+
+            ir.Close();
+        }
     }
 }

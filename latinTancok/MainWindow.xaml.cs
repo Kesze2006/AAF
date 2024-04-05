@@ -117,11 +117,47 @@ namespace latinTancok
             }
 
             StreamWriter ir = new StreamWriter("szereplok.txt");
-
             ir.WriteLine("Lányok: {0}",string.Join(", ",lanyok));
             ir.WriteLine("Fiúk: " + string.Join(", ",fiuk));
-
             ir.Close();
+
+            StreamWriter ir2 = new StreamWriter("valmiXaml.xml");
+            ir2.WriteLine("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
+            ir2.WriteLine("<tancosok>");
+            ir2.WriteLine("\t<fiuk>");
+            ir2.WriteLine("\t\t<nev>{0}</nev>", string.Join("</nev>\n\t\t<nev>",fiuk));
+            ir2.WriteLine("\t</fiuk>");
+            ir2.WriteLine("\t<lányok>");
+            ir2.WriteLine("\t\t<nev>{0}</nev>", string.Join("</nev>\n\t\t<nev>", lanyok));
+            ir2.WriteLine("\t</lányok>");
+            ir2.WriteLine("</tancosok>");
+            ir2.Close();
+        }
+
+        private void _7gomb_Click(object sender, RoutedEventArgs e)
+        {
+            Dictionary<string,int> statFiuk = new Dictionary<string,int>();
+            Dictionary<string, int> statLanyok = new Dictionary<string, int>();
+
+            for (int i = 0; i < tancok.Count; i++)
+            {
+                if (statFiuk.ContainsKey(tancok[i].fiu))
+                {
+                    statFiuk[tancok[i].fiu]++;
+                }
+                else
+                {
+                    statFiuk.Add(tancok[i].fiu, 1);
+                }
+                if (statFiuk.ContainsKey(tancok[i].lany))
+                {
+                    statFiuk[tancok[i].lany]++;
+                }
+                else
+                {
+                    statFiuk.Add(tancok[i].lany, 1);
+                }
+            }
         }
     }
 }

@@ -37,12 +37,15 @@ namespace Bastyak
         {
             Label cimke = new Label();
             cimke.Content = tartalom;
+            tabla.Height = 200;
+            tabla.Width = 200;
             cimke.BorderBrush = Brushes.SlateBlue;
             cimke.BorderThickness = new Thickness(1);
             cimke.Background = Brushes.AliceBlue;
             cimke.Height = tabla.Height/8;
             cimke.Width = tabla.Width/8;
-            cimke.Margin = new Thickness(cimke.Width*oszlop, cimke.Height*sor, 0, 0);
+            cimke.Margin = new Thickness(cimke.Width*oszlop, cimke.Height*sor,0,0);
+            //cimke.Margin = new Thickness(5,5, 0, 0);
             cimke.HorizontalAlignment = HorizontalAlignment.Left;
             cimke.VerticalAlignment = VerticalAlignment.Top;
             tabla.Background = Brushes.LightGreen;

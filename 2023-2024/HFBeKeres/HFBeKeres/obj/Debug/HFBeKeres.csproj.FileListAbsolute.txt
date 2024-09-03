@@ -1,0 +1,14 @@
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.exe.config
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.exe
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.pdb
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.csproj.AssemblyReference.cache
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.csproj.CoreCompileInputs.cache
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.exe
+C:\Users\kesze\source\repos\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.exe.config
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\bin\Debug\HFBeKeres.pdb
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.exe
+D:\Helyi_munkakönyvtár\Keszericze Ákos\AAF\HFBeKeres\HFBeKeres\obj\Debug\HFBeKeres.pdb

@@ -12,7 +12,7 @@ namespace GyakNev
     {
         static void Main(string[] args)
         {
-            StreamReader olavs = new StreamReader("nevek.txt");
+            /*StreamReader olavs = new StreamReader("nevek.txt");
             List<string> furanevek = new List<string>();
             
             while (olavs.EndOfStream != true)
@@ -32,6 +32,67 @@ namespace GyakNev
             {
                 Console.WriteLine(furanevek[i]);
             }
+            */
+
+            StreamReader fiolvas = new StreamReader("nevek.txt");
+            StreamReader lanyolvas = new StreamReader("noinevek.txt");
+            StreamReader veztekolvas = new StreamReader("vezetek.txt");
+
+            List<string> fiu = new List<string>();
+            List<string> lany = new List<string>();
+            List<string> veztek = new List<string>();
+
+            while (fiolvas.EndOfStream != true)
+            {
+                string fiusor = fiolvas.ReadLine();
+                string noisor = lanyolvas.ReadLine();
+                string vezeteksor = veztekolvas.ReadLine();
+
+                fiu.Add(fiusor);
+                lany.Add(noisor);
+                veztek.Add(vezeteksor);
+
+            }
+            fiolvas.Close();
+            lanyolvas.Close();
+            veztekolvas.Close();
+
+            StreamWriter ir = new StreamWriter("teljes.txt");
+
+            Random szam = new Random();
+
+            
+            
+
+            for (int i = 1; i < 101; i++)
+            {
+                if (i % 5 != 0)
+                {
+                    if (szam.Next(2) == 1)
+                    {
+                        ir.WriteLine(veztek[szam.Next(100)] + " " + fiu[szam.Next(100)]);
+                    }
+                    else
+                    {
+
+                        ir.WriteLine(veztek[szam.Next(100)] + " " + lany[szam.Next(100)]);
+                    }
+                }
+                else
+                {
+                    if (szam.Next(2) == 1)
+                    {
+                        ir.WriteLine(veztek[szam.Next(100)] + " " + fiu[szam.Next(100)]+" " + fiu[szam.Next(100)]);
+                    }
+                    else
+                    {
+
+                        ir.WriteLine(veztek[szam.Next(100)] + " " + lany[szam.Next(100)] + " " + lany[szam.Next(100)]);
+                    }
+                }
+
+            }
+            ir.Close();
         }
 
     }

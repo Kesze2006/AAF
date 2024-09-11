@@ -13,3 +13,18 @@ D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0911\obj\Debug\net8.0\refi
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.pdb
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.genruntimeconfig.cache
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0911\obj\Debug\net8.0\ref\gyak0911.dll
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\bin\Debug\net8.0\gyak0911.exe
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\bin\Debug\net8.0\gyak0911.deps.json
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\bin\Debug\net8.0\gyak0911.runtimeconfig.json
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\bin\Debug\net8.0\gyak0911.dll
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\bin\Debug\net8.0\gyak0911.pdb
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.AssemblyInfoInputs.cache
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.AssemblyInfo.cs
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.csproj.CoreCompileInputs.cache
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.sourcelink.json
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.dll
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\refint\gyak0911.dll
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.pdb
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\gyak0911.genruntimeconfig.cache
+C:\Akos\Suli\2024-2025\AAF\2024-2025\gyak0911\obj\Debug\net8.0\ref\gyak0911.dll

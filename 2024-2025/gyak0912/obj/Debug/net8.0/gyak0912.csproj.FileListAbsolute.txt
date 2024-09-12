@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\bin\Debug\net8.0\gyak0912.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\bin\Debug\net8.0\gyak0912.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\bin\Debug\net8.0\gyak0912.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\bin\Debug\net8.0\gyak0912.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\bin\Debug\net8.0\gyak0912.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\refint\gyak0912.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\gyak0912.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\gyak0912\obj\Debug\net8.0\ref\gyak0912.dll

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\bin\Debug\net8.0\idojaras.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\bin\Debug\net8.0\idojaras.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\bin\Debug\net8.0\idojaras.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\bin\Debug\net8.0\idojaras.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\bin\Debug\net8.0\idojaras.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\refint\idojaras.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\idojaras.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\idojaras\obj\Debug\net8.0\ref\idojaras.dll

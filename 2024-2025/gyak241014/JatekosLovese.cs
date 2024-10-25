@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Tracing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace gyak241014
+﻿namespace gyak241014
 {
     internal class JatekosLovese
     {
@@ -16,10 +9,9 @@ namespace gyak241014
         public JatekosLovese()
         {
             StreamReader olvas = new StreamReader("lovesek.txt");
-            
+            int i = 0;
             while (!olvas.EndOfStream)
             {
-                int i = 0;
                 i++;
                 string line = olvas.ReadLine();
                 nevek.Add(line.Split(";")[0]);

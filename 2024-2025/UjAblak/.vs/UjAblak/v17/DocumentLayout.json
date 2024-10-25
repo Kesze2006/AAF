@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\ujablak\\ablakocska.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|solutionrelative:ablakocska.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\ujablak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\ujablak\\ablakocska.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|solutionrelative:ablakocska.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\ujablak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CF7D895-D5DF-4F90-A211-26FD53A1728F}|UjAblak.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ablakocska.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\ablakocska.xaml.cs",
+              "RelativeDocumentMoniker": "ablakocska.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\ablakocska.xaml.cs",
+              "RelativeToolTip": "ablakocska.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:07:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ablakocska.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\ablakocska.xaml",
+              "RelativeDocumentMoniker": "ablakocska.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\ablakocska.xaml",
+              "RelativeToolTip": "ablakocska.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:05:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:05:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\UjAblak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:05:12.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

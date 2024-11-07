@@ -25,11 +25,10 @@ namespace gyak1107
         {
             
         }
-
+        ujablak ablak = new ujablak();
         private void gomb1_Click(object sender, RoutedEventArgs e)
         {
-            ujablak ablak = new ujablak();
-            ablak.Show();
+            ablak.Show(true);
         }
     }
 }

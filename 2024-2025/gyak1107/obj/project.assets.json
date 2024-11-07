@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\gyak1107\\gyak1107.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\gyak1107\\gyak1107.csproj",
       "projectName": "gyak1107",
-      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\gyak1107\\gyak1107.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\gyak1107\\gyak1107.csproj",
       "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\gyak1107\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\gyak1107\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",

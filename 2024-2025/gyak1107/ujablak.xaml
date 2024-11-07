@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ujablak" Height="450" Width="800">
     <Grid>
-        <Button x:Name="gomb2" Content="Button" HorizontalAlignment="Left" Margin="329,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="191" Width="318" Click="gomb2_Click">
+        <Button x:Name="gomb2" Content="Button" HorizontalAlignment="Left" Margin="249,186,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="191" Width="318" Click="gomb2_Click">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -17,6 +17,8 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
+        <Label Content="Megnyitások száma: " HorizontalAlignment="Left" Margin="123,77,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="box1" HorizontalAlignment="Left" Margin="261,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30" Height="22"/>
 
     </Grid>
 </Window>

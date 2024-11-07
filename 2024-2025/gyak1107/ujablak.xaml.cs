@@ -25,16 +25,18 @@ namespace gyak1107
             InitializeComponent();
         }
 
-        public override void Show()
+        public void Show(bool szamolj)
         {
-            
+            megnyitasDb++;
+            box1.Text = Convert.ToString(megnyitasDb);
+            this.Show();
         }
 
 
 
         private void gomb2_Click(object sender, RoutedEventArgs e)
         {
-
+            this.Hide();
         }
     }
 }

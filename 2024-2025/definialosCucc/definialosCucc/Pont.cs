@@ -92,12 +92,11 @@ namespace operatorredef
             {
                 return false;
             }
-            Pont other= obj as Pont;
-
-            if (other == null)
+            if (obj.GetType() != typeof(Pont))
             {
                 return false;
             }
+            Pont other = obj as Pont;
 
             return x==other.x && y==other.y;
         }

@@ -9,9 +9,16 @@ farm csoport2 = new farm(tehen);
 farm csoport3 = new farm(csoport2);
 Console.WriteLine(csoport2.allatok.Count);
 
-farm csoport4= csoport2 + kutya;
-csoport4 = csoport4 + tehen;
+farm csoport4 = csoport2 + kutya;
+
 csoport4 = csoport4 + tyuk;
 
 
-Console.WriteLine(csoport4.allatok.Count);
+//Console.WriteLine(csoport4.allatok.Count);
+csoport4.kiir();
+Console.WriteLine();
+csoport4 = csoport4 - kutya;
+csoport4.kiir();
+
+
+

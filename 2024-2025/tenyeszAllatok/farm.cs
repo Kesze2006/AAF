@@ -26,7 +26,7 @@ namespace tenyeszAllatok
         {
             for (int i = 0; i < cs1.allatok.Count; i++)
             {
-                if (cs1.allatok[i] == a1){}
+                if (cs1.allatok[i] == a1){ return new farm(cs1); }
             }
             cs1.allatok.Add(a1);
             return new farm(cs1);

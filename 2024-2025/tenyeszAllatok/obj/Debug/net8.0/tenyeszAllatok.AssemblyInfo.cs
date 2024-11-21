@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tenyeszAllatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de5ee6d80881a1b4569d9156a33360122c73c20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+722892dc38edcda4b4025eb802f5a3d8835b321e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tenyeszAllatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tenyeszAllatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

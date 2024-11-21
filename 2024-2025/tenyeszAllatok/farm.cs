@@ -9,17 +9,28 @@ namespace tenyeszAllatok
 {
     internal class farm
     {
-        List<allat> tagok;
+        public List<allat> allatok = new List<allat>();
+        public farm(){    }
 
-        public farm()
+        public farm(allat allatka)
         {
-            this.tagok = tagok ??  new List<allat>(tagok);
+            allatok.Add(allatka);
         }
 
-        public static farm operator +(farm farm,allat a)
+        public farm(farm a)
         {
-            farm.tagok.Add(a);
-            return farm;
+            this.allatok.AddRange(a.allatok);
+        }
+
+        public static farm operator +(farm cs1, allat a1)
+        {
+            for (int i = 0; i < cs1.allatok.Count; i++)
+            {
+                if (cs1.allatok[i] == a1){}
+            }
+            cs1.allatok.Add(a1);
+            return new farm(cs1);
+
         }
     }
 }

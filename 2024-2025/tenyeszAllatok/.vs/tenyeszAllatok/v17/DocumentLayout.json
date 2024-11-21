@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|solutionrelative:farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\tenyeszallatok\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|solutionrelative:allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\tenyeszallatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\tenyeszallatok\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3543226-20F1-4553-94A9-0A2BCA1810B2}|tenyeszAllatok.csproj|solutionrelative:allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,37 +36,33 @@
               "RelativeDocumentMoniker": "farm.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\tenyeszAllatok\\farm.cs",
               "RelativeToolTip": "farm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T11:05:59.731Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "allat.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\tenyeszAllatok\\allat.cs",
               "RelativeDocumentMoniker": "allat.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\tenyeszAllatok\\allat.cs",
               "RelativeToolTip": "allat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T11:02:40.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\tenyeszAllatok\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\tenyeszAllatok\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T11:02:25.19Z",
               "EditorCaption": ""

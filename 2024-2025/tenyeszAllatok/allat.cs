@@ -18,5 +18,10 @@ namespace tenyeszAllatok
             this.suly = suly;
             this.ar = ar;
         }
+
+        public override string ToString()
+        {
+            return $"{nev} {suly}kg {ar}FT";
+        }
     }
 }

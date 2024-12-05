@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\bin\Debug\net8.0\regularisValami.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\bin\Debug\net8.0\regularisValami.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\bin\Debug\net8.0\regularisValami.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\bin\Debug\net8.0\regularisValami.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\bin\Debug\net8.0\regularisValami.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\refint\regularisValami.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\regularisValami.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regularisValami\obj\Debug\net8.0\ref\regularisValami.dll

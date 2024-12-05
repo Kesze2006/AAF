@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\bin\Debug\net8.0\Jurgen.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\bin\Debug\net8.0\Jurgen.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\bin\Debug\net8.0\Jurgen.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\bin\Debug\net8.0\Jurgen.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\bin\Debug\net8.0\Jurgen.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\refint\Jurgen.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\Jurgen.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Jurgen\obj\Debug\net8.0\ref\Jurgen.dll

@@ -24,13 +24,47 @@ namespace tenyeszAllatok
 
         public static farm operator +(farm cs1, allat a1)
         {
-            for (int i = 0; i < cs1.allatok.Count; i++)
-            {
-                if (cs1.allatok[i] == a1){ return new farm(cs1); }
-            }
-            cs1.allatok.Add(a1);
-            return new farm(cs1);
+            List<allat> temp = new List<allat>(cs1.allatok);
 
+            if (!temp.Contains(a1))
+            {
+                temp.Add(a1);
+            }
+
+            farm tempCsorda = new farm();
+            tempCsorda.allatok = temp;
+
+            return new farm(tempCsorda);
         }
+
+        public static farm operator -(farm cs1, allat a1)
+        {
+            List<allat> temp = new List<allat>(cs1.allatok);
+            
+            temp.Remove(a1);
+
+            farm tempCsorda = new farm();
+            tempCsorda.allatok = temp;
+
+            return new farm(tempCsorda);
+        }
+
+
+
+
+
+
+
+
+
+
+        public void kiir()
+        {
+            for (int i = 0; i < allatok.Count; i++)
+            {
+                Console.WriteLine(allatok[i]);
+            }
+        }
+
     }
 }

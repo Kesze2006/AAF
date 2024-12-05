@@ -13,3 +13,18 @@ D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\tenyeszAllatok\obj\Debug\
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.pdb
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.genruntimeconfig.cache
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\ref\tenyeszAllatok.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\bin\Debug\net8.0\tenyeszAllatok.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\bin\Debug\net8.0\tenyeszAllatok.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\bin\Debug\net8.0\tenyeszAllatok.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\bin\Debug\net8.0\tenyeszAllatok.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\bin\Debug\net8.0\tenyeszAllatok.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\refint\tenyeszAllatok.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\tenyeszAllatok.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tenyeszAllatok\obj\Debug\net8.0\ref\tenyeszAllatok.dll

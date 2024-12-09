@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,10 +24,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\regularisValami\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAiAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:20:34.368Z",
+              "WhenOpened": "2024-12-09T12:40:06.909Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

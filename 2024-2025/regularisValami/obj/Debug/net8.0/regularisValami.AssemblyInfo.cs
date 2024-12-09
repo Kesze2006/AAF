@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("regularisValami")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec6e7176a04b9326b419afc8c08972b920f26601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d18829d5be935178491af5ed1689a3ac4cca7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("regularisValami")]
 [assembly: System.Reflection.AssemblyTitleAttribute("regularisValami")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

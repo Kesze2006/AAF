@@ -31,7 +31,19 @@ namespace PeldaRegexMatch
                 Console.WriteLine("{0} match status: {1}", testcase, match);
             }
 
-            Console.ReadKey();
+            string datum = "2024-12-09";
+            string datum2 = "44-12-09";
+
+            Regex datumMinta = new Regex(@"^(\d{4}|\d{2})-\d{2}-\d{2}");
+            bool illik = datumMinta.IsMatch(datum);
+            Console.WriteLine(illik);
+            bool illik2 = datumMinta.IsMatch(datum2);
+            Console.WriteLine(illik2);
+
+            var talat = datumMinta.Matches(datum2);
+            Console.WriteLine(talat[0]);
+
+            //Console.ReadKey();
         }
     }
 }

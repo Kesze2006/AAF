@@ -28,3 +28,18 @@ D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regEpx2\regEpx2\obj\Debug
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.pdb
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.genruntimeconfig.cache
 D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\ref\regEpx2.dll
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.exe
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.deps.json
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.runtimeconfig.json
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.dll
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.pdb
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.AssemblyInfoInputs.cache
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.AssemblyInfo.cs
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.csproj.CoreCompileInputs.cache
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.sourcelink.json
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.dll
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\refint\regEpx2.dll
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.pdb
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.genruntimeconfig.cache
+C:\Ákos\Suli\2024-2025\AAF\2024-2025\regEpx2\regEpx2\obj\Debug\net8.0\ref\regEpx2.dll

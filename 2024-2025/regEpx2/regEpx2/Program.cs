@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 string text = File.ReadAllText("generated_log_2024-12-11T11_21_39.997Z.txt");
 
-Regex minta = new Regex(@"""([^""]+)""\s*$""", RegexOptions.Multiline);
+Regex minta = new Regex(@"""(\w+) (\S+ \S+)"" (\d+ \d+) ");
 
 //. bármi lehet
 //* bármennyi számú karakter
@@ -19,8 +19,5 @@ Console.WriteLine(talalat.Count);
 foreach (Match elem in talalat)
 {
     Console.WriteLine(elem);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 16a21397adf8a57d8cd453bc5856f4c1a397fcc0
+

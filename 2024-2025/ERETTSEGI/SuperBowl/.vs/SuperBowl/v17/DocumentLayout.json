@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\superbowl\\superbowl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|solutionrelative:superbowl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\superbowl\\superbowl\\romaisorszam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|solutionrelative:superbowl\\romaisorszam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\superbowl\\superbowl\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95D6D55-DA75-4ECF-8901-70C1816DCB28}|SuperBowl\\SuperBowl.csproj|solutionrelative:superbowl\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\adatok.cs",
+              "RelativeDocumentMoniker": "SuperBowl\\adatok.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\adatok.cs",
+              "RelativeToolTip": "SuperBowl\\adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:05:30.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RomaiSorszam.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\RomaiSorszam.cs",
+              "RelativeDocumentMoniker": "SuperBowl\\RomaiSorszam.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\RomaiSorszam.cs",
+              "RelativeToolTip": "SuperBowl\\RomaiSorszam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:54:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\Program.cs",
+              "RelativeDocumentMoniker": "SuperBowl\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\SuperBowl\\SuperBowl\\Program.cs",
+              "RelativeToolTip": "SuperBowl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:50:08.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

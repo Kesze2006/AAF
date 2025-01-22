@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\bin\Debug\net8.0\regexDoga.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\bin\Debug\net8.0\regexDoga.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\bin\Debug\net8.0\regexDoga.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\bin\Debug\net8.0\regexDoga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\bin\Debug\net8.0\regexDoga.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\refint\regexDoga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\regexDoga.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\regexDoga\obj\Debug\net8.0\ref\regexDoga.dll

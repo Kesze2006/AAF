@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\bin\Debug\net8.0\Rekurzio.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\bin\Debug\net8.0\Rekurzio.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\bin\Debug\net8.0\Rekurzio.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\bin\Debug\net8.0\Rekurzio.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\bin\Debug\net8.0\Rekurzio.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\refint\Rekurzio.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\Rekurzio.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Rekurzio\obj\Debug\net8.0\ref\Rekurzio.dll

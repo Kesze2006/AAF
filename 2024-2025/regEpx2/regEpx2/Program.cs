@@ -16,8 +16,23 @@ Regex minta = new Regex(@"""(\w+) (\S+ \S+)"" (\d+ \d+) ");
 
 var talalat = minta.Matches(text);
 Console.WriteLine(talalat.Count);
+
+Dictionary<string, int> stats = new Dictionary<string, int>();
 foreach (Match elem in talalat)
 {
-    Console.WriteLine(elem);
+    string matchValue = elem.Value;
+    if (stats.ContainsKey(matchValue))
+    {
+        stats[matchValue]++;
+    }
+    else
+    { 
+        stats[matchValue] = 1; 
+    }
+
+}
+foreach (var elem in stats)
+{
+    Console.WriteLine($"{elem.Key}, {elem.Value}");
 }
 

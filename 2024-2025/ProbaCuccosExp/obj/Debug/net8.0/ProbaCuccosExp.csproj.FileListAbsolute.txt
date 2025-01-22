@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\bin\Debug\net8.0\ProbaCuccosExp.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\bin\Debug\net8.0\ProbaCuccosExp.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\bin\Debug\net8.0\ProbaCuccosExp.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\bin\Debug\net8.0\ProbaCuccosExp.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\bin\Debug\net8.0\ProbaCuccosExp.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\refint\ProbaCuccosExp.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ProbaCuccosExp.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\ProbaCuccosExp\obj\Debug\net8.0\ref\ProbaCuccosExp.dll

@@ -39,3 +39,57 @@ static int Ack(int N, int M)
 }
 
 Console.WriteLine(Ack(4, 0));
+
+
+static void Quick(int[] A, int E, int V)
+{
+    int K = 0;
+
+    Szetvalogat(ref A, E, V, K);
+
+    if (K - E > 1)
+    {
+        Quick(A, E, K - 1);
+    }
+
+    if (V - K > 1)
+    {
+        Quick(A, K + 1, V);
+    }
+
+}
+
+static void Szetvalogat(ref int[] A,int E,int V,int K)
+{
+    int X;
+    K = E;
+    int L = V;
+    X = A[K];
+
+    while (K < L)
+    {
+        while (K < L && A[L] > X)
+        {
+            L = L - 1;
+        }
+        if (K < L)
+        {
+            A[K] = A[L];
+            K = K + 1;
+            while (K < L && A[K] <= X)
+            {
+                K++;
+            }
+            if (K < L)
+            {
+                A[L] = A[K];
+                L = L - 1;
+            }
+        }
+    }
+    A[K] = X;
+}
+
+int[] tomb = [1, 2, 3,];
+
+Quick(tomb, 0, tomb.Length - 1);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rekurzio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399b1a339ad776e5546d54d5be5cd84f821e3a3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dc81a39892a0ae8b849c0df08e8b396cad6379")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rekurzio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rekurzio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

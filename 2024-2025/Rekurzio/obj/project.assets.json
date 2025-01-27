@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\Rekurzio\\Rekurzio.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\Rekurzio\\Rekurzio.csproj",
       "projectName": "Rekurzio",
-      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\Rekurzio\\Rekurzio.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\Rekurzio\\Rekurzio.csproj",
       "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\Rekurzio\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\Rekurzio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",

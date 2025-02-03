@@ -11,6 +11,7 @@ namespace viragAgyas
         public int kezd;
         public int veg;
         public string szin;
+        public int sorSzam;
 
         public adatok(string sor)
         {
@@ -18,6 +19,12 @@ namespace viragAgyas
             kezd = int.Parse(adatok[0]);
             veg = int.Parse(adatok[1]);
             szin = adatok[2];
+        }
+
+        public bool kapuBentVan
+        {
+            get { return veg > kezd; }
+
         }
     }
 }

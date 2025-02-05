@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\viragAgyas.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\viragAgyas.csproj",
       "projectName": "viragAgyas",
-      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\viragAgyas.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\viragAgyas.csproj",
       "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\ERETTSEGI\\viragAgyas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",

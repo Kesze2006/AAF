@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\bin\Debug\net8.0\viragAgyas.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\bin\Debug\net8.0\viragAgyas.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\bin\Debug\net8.0\viragAgyas.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\bin\Debug\net8.0\viragAgyas.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\bin\Debug\net8.0\viragAgyas.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\refint\viragAgyas.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\viragAgyas.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\viragAgyas\obj\Debug\net8.0\ref\viragAgyas.dll

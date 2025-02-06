@@ -23,8 +23,12 @@ Console.WriteLine(String.Join(", ", viragok.Where(e => e.kapuBentVan).Select(e =
 //4.feladat
 Console.WriteLine("4.feladat\nAdja meg a ");
 int be = int.Parse(Console.ReadLine());
-
+int darabok = 0;
 for (int i = 0; i < viragok.Count; i++)
 {
-    if (viragok[i])
+    if (viragok[i].benneVanEz(be))
+    {
+       darabok++;
+    }
 }
+Console.WriteLine("A felajánlások száma: {0}", darabok);

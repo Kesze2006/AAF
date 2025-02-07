@@ -49,3 +49,9 @@ else
     Console.WriteLine("Virágágyás színe ha csak az első ültet: {0}",szin);
     Console.WriteLine("A virágágyás színei: {0}",String.Join(" ",szinek));
 }
+List<adatok> szurt = viragok.Where((elem) => elem.benneVanEz(be)).ToList();
+Console.WriteLine("A felajánlások száma {0}", szurt.Count);
+Console.WriteLine(szurt.First().szin);
+Console.WriteLine(String.Join(" ", szurt.Select(elem => elem.szin).Distinct()));
+
+List<adatok>[] agyasok = List<adatok>[]

@@ -18,5 +18,9 @@ namespace RGB
             g = (byte)green;
             b = (byte)blue;
         }
+        public override string ToString()
+        {
+            return $"RGB({r},{g},{b})";
+        }
     }
 }

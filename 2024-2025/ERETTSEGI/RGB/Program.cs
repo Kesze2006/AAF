@@ -26,8 +26,21 @@ olvas.Close();
 Console.WriteLine("2.feladat: Kérem egy képpont adatait");
 Console.Write("Sor: ");
 int sor = int.Parse(Console.ReadLine());
-Console.WriteLine("Oszlop: ");
+Console.Write("Oszlop: ");
 int oszlop =  int.Parse(Console.ReadLine());
-var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor);
-Console.WriteLine("A képpont színe {0}",);
+var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor).First();
+Console.WriteLine("A képpont színe {0}", talalat.rgb);
+
+//3.feladat
+/*var talalat2 = pontok.Where(ertek => ertek.rgb.osszge() > 600).ToList();
+Console.WriteLine(talalat2.Count);
+*/
+
+var vilagosok = pontok.Where(pont => pont.rgb.vilagos()).ToList();
+int vilagosokSzama = pontok.Where(pont => pont.rgb.vilagos()).ToList().Count;
+Console.WriteLine($"A világos képpontok száma {vilagosok.Count}");
+
+//4.feladat
+int minSzin = pontok.Min(pont => pont.rgb.osszge());
+
 

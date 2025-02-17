@@ -35,12 +35,17 @@ Console.WriteLine("A képpont színe {0}", talalat.rgb);
 /*var talalat2 = pontok.Where(ertek => ertek.rgb.osszge() > 600).ToList();
 Console.WriteLine(talalat2.Count);
 */
-
+Console.WriteLine("3.feladat");
 var vilagosok = pontok.Where(pont => pont.rgb.vilagos()).ToList();
 int vilagosokSzama = pontok.Where(pont => pont.rgb.vilagos()).ToList().Count;
 Console.WriteLine($"A világos képpontok száma {vilagosok.Count}");
 
 //4.feladat
+Console.WriteLine("4.feladat");
 int minSzin = pontok.Min(pont => pont.rgb.osszge());
+Console.WriteLine($"A legsötétebb pont RGB összege: {minSzin}");
+var minSzinesek = pontok.Where(pont => pont.rgb.osszge() == minSzin).Select(pont => pont.rgb.ToString()).ToList();
+Console.WriteLine("A legsőtétebb pixelek színe:");
+Console.WriteLine(String.Join("\n", minSzinesek));
 
-
+//5.feladat

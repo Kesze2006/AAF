@@ -46,6 +46,21 @@ int minSzin = pontok.Min(pont => pont.rgb.osszge());
 Console.WriteLine($"A legsötétebb pont RGB összege: {minSzin}");
 var minSzinesek = pontok.Where(pont => pont.rgb.osszge() == minSzin).Select(pont => pont.rgb.ToString()).ToList();
 Console.WriteLine("A legsőtétebb pixelek színe:");
-Console.WriteLine(String.Join("\n", minSzinesek));
 
 //5.feladat
+static bool valami(int sor, int elteres, List<Pixel> pontok)
+{
+    var uj = pontok.Where(pont => pont.y == sor).ToList();
+    List<int> deltaB = new List<int>();
+    for (int i = 0; i < uj.Count - 1; i++)
+    {
+        deltaB.Add(Math.Abs(uj[i].rgb.b - uj[i + 1].rgb.b));
+    }
+     return Convert.ToBoolean(deltaB.Where(elem => elem > elteres));
+}
+
+//6.feladat
+Console.WriteLine("6.feladat");
+
+var felhoSorok = pontok.GroupBy(pont => pont.y).Select(csoport => new { valami(csoport.Key, 10, pontok));
+

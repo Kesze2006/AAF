@@ -18,10 +18,5 @@ namespace RGB
             this.y = y;
             this.rgb = rgb;
         }
-        static bool randomFugvenyMertNemTudokMarFigyelni(int sor, int elteres)
-        {
-            //az aktuális elem rgb tulajdonságának a b érétke és a következő elem rgb b értéke között a különbség nagyobb e mint az eltérés
-            return true;
-        }
     }
 }

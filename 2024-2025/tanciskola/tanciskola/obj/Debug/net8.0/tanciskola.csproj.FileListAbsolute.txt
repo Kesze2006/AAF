@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\refint\tanciskola.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\tanciskola\tanciskola\obj\Debug\net8.0\ref\tanciskola.dll

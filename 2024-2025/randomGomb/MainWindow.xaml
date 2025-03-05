@@ -7,15 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="randomGomb" Content="Click me!" HorizontalAlignment="Left" Margin="250,155,0,0" VerticalAlignment="Top" Height="114" Width="272" MouseMove="randomGomb_MouseMove"/>
-        <TabControl>
-            <TabItem Header="TabItem">
-                <Grid Background="#FFE5E5E5"/>
-            </TabItem>
-            <TabItem Header="TabItem">
-                <Grid Background="#FFE5E5E5"/>
-            </TabItem>
-        </TabControl>
-
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="128,72,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="228,72,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="328,72,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="128,172,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="228,172,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="328,172,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="128,272,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="228,272,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="328,272,0,0" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Window>

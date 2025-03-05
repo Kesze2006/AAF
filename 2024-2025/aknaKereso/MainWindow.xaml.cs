@@ -19,20 +19,26 @@ namespace aknaKereso
         public MainWindow()
         {
             InitializeComponent();
+            this.SizeToContent = SizeToContent.WidthAndHeight;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 1; i++)
             {
-                System.Windows.Controls.Button newBtn = new Button();
+                for (int k = 0; k < 5; k++)
+                {
+                    Button newBtn = new Button();
+                    newBtn.Content = i.ToString();
+                    newBtn.Name = "Button" + i.ToString();
+                    newBtn.Height = 100;
+                    newBtn.Width = 100;
+                    newBtn.HorizontalAlignment = HorizontalAlignment.Left;
+                    newBtn.VerticalAlignment = VerticalAlignment.Top;
+                    grid.Children.Add(newBtn);
+                }
 
-                newBtn.Content = i.ToString();
-                newBtn.Name = "Button" + i.ToString();
-                newBtn.Height = 100;
-                newBtn.Width = 100;
-
-                this.grid.Children.Add(newBtn);
+                grid.Children.Remove(lajos);
             }
         }
     }

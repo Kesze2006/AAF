@@ -1,0 +1,21 @@
+﻿<Window x:Class="ticTacFaszomGeci.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ticTacFaszomGeci"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="masodik" Content="" HorizontalAlignment="Left" Height="100" Margin="231,62,0,0" VerticalAlignment="Top" Width="100" Click="masodik_Click"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="331,62,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="131,162,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="231,162,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="331,162,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="131,262,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="231,262,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Height="100" Margin="331,262,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="elso" Content="" HorizontalAlignment="Left" Height="100" Margin="131,62,0,0" VerticalAlignment="Top" Width="100" Click="elso_Click"/>
+
+    </Grid>
+</Window>

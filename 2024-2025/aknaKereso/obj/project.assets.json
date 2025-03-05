@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\aknaKereso\\aknaKereso.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\aknaKereso\\aknaKereso.csproj",
       "projectName": "aknaKereso",
-      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\aknaKereso\\aknaKereso.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\aknaKereso\\aknaKereso.csproj",
       "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos 12.C\\AAF\\2024-2025\\aknaKereso\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\aknaKereso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",

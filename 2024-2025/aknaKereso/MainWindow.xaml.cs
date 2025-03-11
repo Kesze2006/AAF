@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace aknaKereso
+namespace aknakereso_papaval
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -19,27 +19,79 @@ namespace aknaKereso
         public MainWindow()
         {
             InitializeComponent();
-            this.SizeToContent = SizeToContent.WidthAndHeight;
-        }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        }
+        int sor = 10;
+        int oszlop = 10;
+        int aknaDarab = 0;
+        Button[,] gombok;
+
+        private void startGomb_Click(object sender, RoutedEventArgs e)
         {
-            for (int i = 0; i < 1; i++)
+            gombok = new Button[sor, oszlop];
+            for (int k = 0; k < sor; k++)
             {
-                for (int k = 0; k < 5; k++)
+
+                for (int i = 0; i < oszlop; i++)
                 {
-                    Button newBtn = new Button();
-                    newBtn.Content = i.ToString();
-                    newBtn.Name = "Button" + i.ToString();
-                    newBtn.Height = 100;
-                    newBtn.Width = 100;
-                    newBtn.HorizontalAlignment = HorizontalAlignment.Left;
-                    newBtn.VerticalAlignment = VerticalAlignment.Top;
-                    grid.Children.Add(newBtn);
+
+                    Button g = new Button();
+                    g.VerticalAlignment = VerticalAlignment.Top;
+                    g.HorizontalAlignment = HorizontalAlignment.Left;
+                    g.Width = 25;
+                    g.Height = 25;
+                    g.Click += kattintas;
+                    g.Margin = new Thickness(i * 25, k * 25, 0, 0);
+                    racs.Children.Add(g);
+                    gombok[k, i] = g;
+                }
+            }
+            racs.Children.Remove(startGomb);
+            this.SizeToContent = SizeToContent.WidthAndHeight;
+            aknalerak();
+
+
+        }
+        int[,] aknaHely;
+        Random rand = new Random();
+        void aknalerak()
+        {
+            aknaHely = new int[sor, oszlop];
+
+
+            for (int k = 0; k < aknaDarab; k++)
+            {
+                int randomSor = rand.Next(sor);
+                int randomOszlop = rand.Next(oszlop);
+                if (aknaHely[randomSor, randomOszlop] == 10)
+                {
+                    k--;
+                }
+                else
+                {
+                    aknaHely[randomSor, randomOszlop] = 10;
                 }
 
-                grid.Children.Remove(lajos);
             }
+
+        }
+        void aknaMutat()
+        {
+            for (int k = 0; k < aknaHely.GetLength(0); k++)
+            {
+                for (int i = 0; i < aknaHely.GetLength(1); i++)
+                {
+                    gombok[k, i].Content = aknaHely[k, i];
+                }
+            }
+        }
+        int aknaSzamol(int sor, int oszlop)
+        {
+
+        }
+        private void kattintas(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

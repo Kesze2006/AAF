@@ -118,8 +118,35 @@ namespace aknakereso_papaval
             if (aknaHely[sor, oszlop] == 10)
             {
                 System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
-                akna.Source = new BitmapImage(new Uri(""));
-                gombok[sor,oszlop].Content = akna;
+                akna.Source = new BitmapImage(new Uri("/akna_Wikipedia.jpg", UriKind.Relative));
+
+                gombok[sor, oszlop].Content = akna;
+            }
+            else if (aknaHely[sor, oszlop] == 0)
+            {
+                gombok[sor, oszlop].Background = Brushes.GreenYellow;
+                for (int i = -1; i < 2; i++)
+                {
+                    for (int j = -1; j < 2; j++)
+                    {
+                        try
+                        {
+                            int temp = aknaHely[sor + i, oszlop + j];
+                            if ((i != 0 || j != 0) && gombok[sor + i, oszlop + j].Background != Brushes.GreenYellow)
+                            {
+                                helyEllenoriz(sor + i, oszlop + j);
+                            }
+                        }
+                        catch
+                        {
+
+                        }
+                    }
+                }
+            }
+            else
+            {
+                gombok[sor, oszlop].Content = aknaHely[sor,oszlop];
             }
         }
 
@@ -136,7 +163,6 @@ namespace aknakereso_papaval
                 {
                     if (gombok[i, j] == button)
                     {
-                        gombok[i, j].Content = aknaHely[i, j];
 
                         helyEllenoriz(i, j);
                         i = gombok.GetLength(0);

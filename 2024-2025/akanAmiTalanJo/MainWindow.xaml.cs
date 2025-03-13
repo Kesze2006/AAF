@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace aknakereso_papaval
 {
@@ -111,6 +112,24 @@ namespace aknakereso_papaval
 
             return db;
         }
+
+        void helyEllenoriz(int sor, int oszlop)
+        {
+            if (aknaHely[sor, oszlop] == 10)
+            {
+                Image akna = new Image();
+
+                BitmapImage lajos = new BitmapImage();
+                lajos.BeginInit();
+                lajos.UriSource = new Uri("smiley_stackpanel.PNG", UriKind.Relative);
+                lajos.EndInit();
+                akna.Stretch = Stretch.Fill;
+            }
+        }
+
+
+
+
         private void kattintas(object sender, RoutedEventArgs e)
         {
             Button button = sender as Button;
@@ -121,7 +140,11 @@ namespace aknakereso_papaval
                 {
                     if (gombok[i, j] == button)
                     {
-                        break;
+                        gombok[i, j].Content = aknaHely[i, j];
+
+                        helyEllenoriz(i, j);
+                        i = gombok.GetLength(0);
+                        j = gombok.GetLength(1);
                     }
                 }
             }

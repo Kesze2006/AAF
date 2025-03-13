@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace aknakereso_papaval
 {
@@ -23,7 +24,7 @@ namespace aknakereso_papaval
         }
         int sor = 10;
         int oszlop = 10;
-        int aknaDarab = 0;
+        int aknaDarab = 10;
         Button[,] gombok;
 
         private void startGomb_Click(object sender, RoutedEventArgs e)
@@ -50,7 +51,6 @@ namespace aknakereso_papaval
             this.SizeToContent = SizeToContent.WidthAndHeight;
             aknalerak();
 
-
         }
         int[,] aknaHely;
         Random rand = new Random();
@@ -74,6 +74,17 @@ namespace aknakereso_papaval
 
             }
 
+            for (int k = 0; k < aknaHely.GetLength(0); k++)
+            {
+                for (int i = 0; i < aknaHely.GetLength(1); i++)
+                {
+                    if (aknaHely[k, i] != 10)
+                    {
+                        aknaHely[k, i] = aknaSzamol(k, i);
+                    }
+                }
+            }
+
         }
         void aknaMutat()
         {
@@ -87,11 +98,52 @@ namespace aknakereso_papaval
         }
         int aknaSzamol(int sor, int oszlop)
         {
+            int db = 0;
+            if (sor - 1 >= 0 && oszlop - 1 >= 0 && aknaHely[sor - 1, oszlop - 1] == 10) { db++; }
+            if (sor - 1 >= 0 && oszlop >= 0 && aknaHely[sor - 1, oszlop] == 10) { db++; }
+            if (sor - 1 >= 0 && oszlop + 1 < this.oszlop && aknaHely[sor - 1, oszlop + 1] == 10) { db++; }
 
+            if (sor >= 0 && oszlop - 1 >= 0 && aknaHely[sor, oszlop - 1] == 10) { db++; }
+            if (sor >= 0 && oszlop + 1 < this.oszlop && aknaHely[sor, oszlop + 1] == 10) { db++; }
+
+            if (sor + 1 < this.sor && oszlop - 1 >= 0 && aknaHely[sor + 1, oszlop - 1] == 10) { db++; }
+            if (sor + 1 < this.sor && oszlop >= 0 && aknaHely[sor + 1, oszlop] == 10) { db++; }
+            if (sor + 1 < this.sor && oszlop + 1 < this.oszlop && aknaHely[sor + 1, oszlop + 1] == 10) { db++; }
+
+            return db;
         }
+
+        void helyEllenoriz(int sor, int oszlop)
+        {
+            if (aknaHely[sor, oszlop] == 10)
+            {
+                System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
+                akna.Source = new BitmapImage(new Uri(""));
+                gombok[sor,oszlop].Content = akna;
+            }
+        }
+
+
+
+
         private void kattintas(object sender, RoutedEventArgs e)
         {
+            Button button = sender as Button;
 
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int j = 0; j < gombok.GetLength(1); j++)
+                {
+                    if (gombok[i, j] == button)
+                    {
+                        gombok[i, j].Content = aknaHely[i, j];
+
+                        helyEllenoriz(i, j);
+                        i = gombok.GetLength(0);
+                        j = gombok.GetLength(1);
+                    }
+                }
+            }
         }
     }
 }

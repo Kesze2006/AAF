@@ -42,6 +42,7 @@ namespace aknakereso_papaval
                     g.Width = 25;
                     g.Height = 25;
                     g.Click += kattintas;
+                    g.ContextMenuOpening += jeloles;
                     g.Margin = new Thickness(i * 25, k * 25, 0, 0);
                     racs.Children.Add(g);
                     gombok[k, i] = g;
@@ -92,7 +93,14 @@ namespace aknakereso_papaval
             {
                 for (int i = 0; i < aknaHely.GetLength(1); i++)
                 {
-                    gombok[k, i].Content = aknaHely[k, i];
+                    if (aknaHely[k, i] == 10)
+                    {
+                        System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
+                        akna.Source = new BitmapImage(new Uri("/akna_Wikipedia.jpg", UriKind.Relative));
+
+                        gombok[k, i].Content = akna;
+                    }
+
                 }
             }
         }
@@ -117,10 +125,7 @@ namespace aknakereso_papaval
         {
             if (aknaHely[sor, oszlop] == 10)
             {
-                System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
-                akna.Source = new BitmapImage(new Uri("/akna_Wikipedia.jpg", UriKind.Relative));
-
-                gombok[sor, oszlop].Content = akna;
+                aknaMutat();
             }
             else if (aknaHely[sor, oszlop] == 0)
             {
@@ -150,7 +155,21 @@ namespace aknakereso_papaval
             }
         }
 
-
+        void jatekEllenoriz()
+        {
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int j = 0; j < gombok.GetLength(1); j++)
+                {
+                    if (gombok[i, j].Background == Brushes.White)
+                    {
+                    }
+                    if (gombok[i, j].Content != "" && aknaHely[i,j] ==10)
+                    { 
+                    }
+                }
+            }
+        }
 
 
         private void kattintas(object sender, RoutedEventArgs e)
@@ -170,6 +189,28 @@ namespace aknakereso_papaval
                     }
                 }
             }
+        }
+
+        private void jeloles(object sender, RoutedEventArgs e)
+        {
+            Button button = sender as Button;
+
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int j = 0; j < gombok.GetLength(1); j++)
+                {
+                    if (gombok[i, j] == button)
+                    {
+                        System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
+                        akna.Source = new BitmapImage(new Uri("/ba-wave-01.png", UriKind.Relative));
+                        gombok[i, j].Content = akna;
+                    }
+                }
+            }
+        }
+
+        private void startGomb_ContextMenuOpening(object sender, ContextMenuEventArgs e)
+        {
         }
     }
 }

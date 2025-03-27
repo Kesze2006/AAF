@@ -39,7 +39,12 @@ namespace Szinuszgorbe
 
 
             kordinataRajzol();
-            kor(0);
+            for (int i = 0; i < 360; i += 10)
+            {
+                kor(i);
+                sugar(i);
+            }
+            
         }
         int r = 100;
         double origoY = 0;
@@ -88,15 +93,32 @@ namespace Szinuszgorbe
                 vaszon.Children.Add(vonalka);
             }
         }
+        int korX = 0;
+        int korY = 0;
         void kor(int x)
         {
             Ellipse kor = new Ellipse();
             kor.Stroke = Brushes.Blue;
             kor.Height = 2 * r;
             kor.Width = 2 * r;
-            kor.Margin = new Thickness(x - r, origoY-r,0,0);
+            kor.Margin = new Thickness(x - r +origoX-r, origoY-r,0,0);
 
+            korX = Convert.ToInt32(x - r + origoX);
+            korY = Convert.ToInt32(origoY);
             vaszon.Children.Add(kor);
+        }
+
+        void sugar(int x)
+        {
+            Line sugar = new Line();
+            sugar.Stroke = Brushes.Black;
+            sugar.StrokeThickness = 5;
+            sugar.X1 = korX;
+            sugar.Y1 = korY;
+            sugar.X2 = x+ origoX;
+            sugar.Y2 = Math.Sin(x/180.0*Math.PI)*r+origoY;
+
+            vaszon.Children.Add(sugar);
         }
     }
 }

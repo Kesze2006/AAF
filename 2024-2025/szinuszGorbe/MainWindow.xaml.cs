@@ -37,14 +37,13 @@ namespace Szinuszgorbe
             origoX = r * 1.1;
             origoY = Height / 2;
 
-
+            kor(50);
+            sugar(50);
             kordinataRajzol();
-            for (int i = 0; i < 360; i += 10)
-            {
-                kor(i);
-                sugar(i);
-            }
+            pirosVonal(50);
+            pont(50);
             
+
         }
         int r = 100;
         double origoY = 0;
@@ -119,6 +118,33 @@ namespace Szinuszgorbe
             sugar.Y2 = Math.Sin(x/180.0*Math.PI)*r+origoY;
 
             vaszon.Children.Add(sugar);
+        }
+
+        void pont(int x)
+        {
+            Ellipse pont = new Ellipse();
+            pont.Stroke = Brushes.Black;
+            pont.Height = r * .1;
+            pont.Width = r * .1;
+            pont.Margin = new Thickness(origoX-pont.Width/2+x, origoY-pont.Height/2, 0,0);
+            pont.Fill = Brushes.Black;
+
+            vaszon.Children.Add(pont);
+        }
+
+        void pirosVonal(int x)
+        {
+            int magassag = (int)(Math.Sin(x / 180.0 * Math.PI)*r);
+
+            Line vonal = new Line();
+            vonal.Stroke = Brushes.Red;
+            vonal.StrokeThickness = 3;
+            vonal.X1 = x + origoX;
+            vonal.Y1 = origoY;
+            vonal.X2 = x + origoX;
+            vonal.Y2 = origoY - magassag;
+
+            vaszon.Children.Add(vonal);
         }
     }
 }

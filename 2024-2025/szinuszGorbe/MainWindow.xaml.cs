@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace Szinuszgorbe
 {
@@ -34,16 +35,10 @@ namespace Szinuszgorbe
 
         private void vaszon_Loaded(object sender, RoutedEventArgs e)
         {
-            origoX = r * 1.1;
-            origoY = Height / 2;
-
-            kor(50);
-            sugar(50);
-            kordinataRajzol();
-            pirosVonal(50);
-            pont(50);
-            
-
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Tick += rajzol;
+            timer.Interval = TimeSpan.FromMilliseconds(40);
+            timer.Start();
         }
         int r = 100;
         double origoY = 0;
@@ -96,11 +91,12 @@ namespace Szinuszgorbe
         int korY = 0;
         void kor(int x)
         {
+            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
             Ellipse kor = new Ellipse();
             kor.Stroke = Brushes.Blue;
             kor.Height = 2 * r;
             kor.Width = 2 * r;
-            kor.Margin = new Thickness(x - r +origoX-r, origoY-r,0,0);
+            kor.Margin = new Thickness(origoX + x - dX-r, origoY-r,0,0);
 
             korX = Convert.ToInt32(x - r + origoX);
             korY = Convert.ToInt32(origoY);
@@ -109,13 +105,14 @@ namespace Szinuszgorbe
 
         void sugar(int x)
         {
+            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
             Line sugar = new Line();
             sugar.Stroke = Brushes.Black;
             sugar.StrokeThickness = 5;
-            sugar.X1 = korX;
-            sugar.Y1 = korY;
+            sugar.X1 = origoX+x-dX;
+            sugar.Y1 = origoY;
             sugar.X2 = x+ origoX;
-            sugar.Y2 = Math.Sin(x/180.0*Math.PI)*r+origoY;
+            sugar.Y2 = origoY - Math.Sin(x/180.0*Math.PI)*r;
 
             vaszon.Children.Add(sugar);
         }
@@ -145,6 +142,21 @@ namespace Szinuszgorbe
             vonal.Y2 = origoY - magassag;
 
             vaszon.Children.Add(vonal);
+        }
+        int x = 0;
+        void rajzol(object sender, EventArgs e)
+        {
+            origoX = r * 1.1;
+            origoY = Height / 2;
+
+            
+            kordinataRajzol();
+            kor(x);
+            sugar(x);
+            pirosVonal(x);
+            pont(x);
+            x++;
+
         }
     }
 }

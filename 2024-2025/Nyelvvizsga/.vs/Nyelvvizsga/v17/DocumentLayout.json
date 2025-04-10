@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Nyelvadat.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos\\AAF\\2024-2025\\Nyelvvizsga\\Nyelvadat.cs",
               "RelativeToolTip": "Nyelvadat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:25:33.874Z",
               "EditorCaption": ""
@@ -53,7 +53,13 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:22:24.837Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -62,7 +68,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos\\AAF\\2024-2025\\Nyelvvizsga\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:10:25.829Z",
               "EditorCaption": ""

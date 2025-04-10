@@ -159,6 +159,7 @@ namespace Szinuszgorbe
             pont(x);
             korivNagy(x);
             korivKicsi(x);
+            hullam(x);
             if (novekszik)
             {
                 x++;
@@ -217,15 +218,15 @@ namespace Szinuszgorbe
             double x1 = origoX + x - dX + r/10;
             double y1 = origoY;
 
-            double x2 = (x + origoX - dX - (x + origoX)/10)+;
-            double y2 = origoY-(origoY - magassag)/10;
+            double x2 = x + origoX - dX - (x+origoX-dX-(x+origoX))/10;
+            double y2 = origoY-(origoY - (origoY-magassag))/10;
 
 
 
 
             Path path = new Path();
             path.Stroke = Brushes.Gray;
-            path.StrokeThickness = 1;
+            path.StrokeThickness = 2;
 
             PathGeometry geometry = new PathGeometry();
 
@@ -244,6 +245,27 @@ namespace Szinuszgorbe
             path.Data = geometry;
 
             vaszon.Children.Add(path);
+        }
+        PointCollection pontok = new PointCollection();
+        void hullam(int x)
+        {
+            Polyline vonal = new Polyline();
+            vonal.Stroke = Brushes.Purple;
+            vonal.StrokeThickness = 3;
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+            if (novekszik)
+            {
+                pontok.Add(new Point(x + origoX, origoY - magassag));
+            }
+            else
+            {
+                pontok.RemoveAt(x-1);
+            }
+
+            vonal.Points = pontok;
+
+
+            vaszon.Children.Add (vonal);
         }
     }
 }

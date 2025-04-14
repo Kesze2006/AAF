@@ -13,3 +13,18 @@ D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\r
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.pdb
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.genruntimeconfig.cache
 D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\ref\Nyelvvizsga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\refint\Nyelvvizsga.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Nyelvvizsga\obj\Debug\net8.0\ref\Nyelvvizsga.dll

@@ -2,6 +2,18 @@
 
 List<Nyelvadat> sikeres = new List<Nyelvadat>();
 List<Nyelvadat> sikertelenek = new List<Nyelvadat>();
+sikeres = fajlBe("sikeres.csv");
+sikertelenek = fajlBe("sikertelen.csv");
+
+List<Nyelvadat> kozos = new List<Nyelvadat>();
+
+for (int i = 0; i < sikeres.Count; i++)
+{
+    
+}
+Console.WriteLine(sikeres[0].vizsgazoOsszes());
+
+
 
 static List<Nyelvadat> fajlBe(string fajlNev)
 {
@@ -21,4 +33,4 @@ static List<Nyelvadat> fajlBe(string fajlNev)
     olvas.Close();
     return adatok;
 }
-fajlBe("sikeres.csv");
+

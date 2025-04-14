@@ -9,7 +9,7 @@ namespace Nyelvvizsga
     internal class Nyelvadat
     {
         public string nyelv;
-        public List<Evadat> vizsgak;
+        public List<Evadat> vizsgak = new List<Evadat>();
         public Nyelvadat(string sor, int[] evSzamok) 
         {
             string[] vag = sor.Split(";");
@@ -32,6 +32,17 @@ namespace Nyelvvizsga
             {
                 this.vizsgak.Add(new Evadat(evSzamok[i], adatok[i]));
             }
+        }
+
+        public int vizsgazoOsszes()
+        {
+            int osszeg = 0;
+            for (int i = 0; i < this.vizsgak.Count; i++)
+            {
+                osszeg += this.vizsgak[i];
+            }
+            //return osszeg;
+            return this.vizsgak.Sum(e=>e.vizsgaDarab);
         }
     }
 }

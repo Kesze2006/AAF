@@ -74,6 +74,9 @@
         <Label Content="Dátum" HorizontalAlignment="Left" Height="23" Margin="262,373,0,0" VerticalAlignment="Top" Width="51"/>
         <DatePicker x:Name="picker" HorizontalAlignment="Left" Height="37" Margin="325,373,0,0" VerticalAlignment="Top" Width="100" DisplayDate="2018-01-10" SelectedDateFormat="Short" SelectedDate="2018-01-10"/>
         <ListBox x:Name="_8ListaDisplay" HorizontalAlignment="Left" Height="114" Margin="494,357,0,0" VerticalAlignment="Top" Width="192" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Button x:Name="_9" Content="9.feladat" HorizontalAlignment="Left" Height="75" Margin="99,493,0,0" VerticalAlignment="Top" Width="150" Click="_9_Click"/>
+        <Label Content="Legjobban leterhelt nap" HorizontalAlignment="Left" Height="23" Margin="262,519,0,0" VerticalAlignment="Top" Width="138"/>
+        <Label x:Name="_9Display" Content="Legjobban leterhelt nap" HorizontalAlignment="Left" Height="23" Margin="428,518,0,0" VerticalAlignment="Top" Width="138"/>
 
     </Grid>
 </Window>

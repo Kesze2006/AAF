@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\Kutyak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{615BBD5C-32BB-46EC-83D7-0802E06F884C}|Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\erettsegi\\kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Kutya.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\Kutyak\\Kutya.cs",
               "RelativeToolTip": "Kutya.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T07:03:01.36Z",
               "EditorCaption": ""
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\Kutyak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\Kutyak\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\ERETTSEGI\\Kutyak\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAawE4AAAABAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFIAAACSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T10:45:07.725Z",
               "EditorCaption": ""

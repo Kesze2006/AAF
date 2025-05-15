@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\bin\Debug\net8.0\Jackie.exe
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\bin\Debug\net8.0\Jackie.deps.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\bin\Debug\net8.0\Jackie.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\bin\Debug\net8.0\Jackie.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\bin\Debug\net8.0\Jackie.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\refint\Jackie.dll
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.pdb
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\Jackie.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\ERETTSEGI\dzsekiCsen\Jackie\obj\Debug\net8.0\ref\Jackie.dll

@@ -37,7 +37,7 @@ namespace Szinuszgorbe
         {
             DispatcherTimer timer = new DispatcherTimer();
             timer.Tick += rajzol;
-            timer.Interval = TimeSpan.FromMilliseconds(40);
+            timer.Interval = TimeSpan.FromMilliseconds(10);
             timer.Start();
         }
         int r = 100;
@@ -144,8 +144,10 @@ namespace Szinuszgorbe
             vaszon.Children.Add(vonal);
         }
         int x = 0;
+        bool novekszik = true;
         void rajzol(object sender, EventArgs e)
         {
+            vaszon.Children.Clear();
             origoX = r * 1.1;
             origoY = Height / 2;
 
@@ -155,8 +157,115 @@ namespace Szinuszgorbe
             sugar(x);
             pirosVonal(x);
             pont(x);
-            x++;
+            korivNagy(x);
+            korivKicsi(x);
+            hullam(x);
+            if (novekszik)
+            {
+                x++;
+            }
+            else
+            { 
+                x--; 
+            }
+            if (x >= 360)
+            {
+                novekszik = false;
+            }
+            if (x <= 0)
+            {
+                novekszik = true;
+            }
+        }
+        void korivNagy(int x)
+        {
+            double dX = (Math.Cos(x / 180.0 * Math.PI) * r);
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+            double x1 = origoX + x - dX + r;
+            double y1 = origoY;
+            double x2 = x + origoX;
+            double y2 = origoY - magassag;
 
+
+
+
+            Path path = new Path();
+            path.Stroke = Brushes.Green;
+            path.StrokeThickness = 3;
+
+            PathGeometry geometry = new PathGeometry();
+
+            PathFigure figure = new PathFigure();
+            figure.StartPoint = new Point(x1, y1);
+
+            ArcSegment arc = new ArcSegment();
+            arc.Point = new Point(x2, y2);
+            arc.Size = new Size(r, r);
+            arc.IsLargeArc = x >= 180;
+
+            arc.SweepDirection = SweepDirection.Counterclockwise;
+
+            figure.Segments.Add(arc);
+            geometry.Figures.Add(figure);
+            path.Data = geometry;
+
+            vaszon.Children.Add(path);
+        }
+        void korivKicsi(int x)
+        {
+            double dX = (Math.Cos(x / 180.0 * Math.PI) * r);
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+            double x1 = origoX + x - dX + r/10;
+            double y1 = origoY;
+
+            double x2 = x + origoX - dX - (x+origoX-dX-(x+origoX))/10;
+            double y2 = origoY-(origoY - (origoY-magassag))/10;
+
+
+
+
+            Path path = new Path();
+            path.Stroke = Brushes.Gray;
+            path.StrokeThickness = 2;
+
+            PathGeometry geometry = new PathGeometry();
+
+            PathFigure figure = new PathFigure();
+            figure.StartPoint = new Point(x1, y1);
+
+            ArcSegment arc = new ArcSegment();
+            arc.Point = new Point(x2, y2);
+            arc.Size = new Size(r/10, r/10);
+            arc.IsLargeArc = x >= 180;
+
+            arc.SweepDirection = SweepDirection.Counterclockwise;
+
+            figure.Segments.Add(arc);
+            geometry.Figures.Add(figure);
+            path.Data = geometry;
+
+            vaszon.Children.Add(path);
+        }
+        PointCollection pontok = new PointCollection();
+        void hullam(int x)
+        {
+            Polyline vonal = new Polyline();
+            vonal.Stroke = Brushes.Purple;
+            vonal.StrokeThickness = 3;
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+            if (novekszik)
+            {
+                pontok.Add(new Point(x + origoX, origoY - magassag));
+            }
+            else
+            {
+                pontok.RemoveAt(x-1);
+            }
+
+            vonal.Points = pontok;
+
+
+            vaszon.Children.Add (vonal);
         }
     }
 }

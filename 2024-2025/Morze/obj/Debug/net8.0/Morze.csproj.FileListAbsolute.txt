@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\bin\Debug\net8.0\Morze.exe
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\bin\Debug\net8.0\Morze.deps.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\bin\Debug\net8.0\Morze.runtimeconfig.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\bin\Debug\net8.0\Morze.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\bin\Debug\net8.0\Morze.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.AssemblyInfo.cs
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.sourcelink.json
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\refint\Morze.dll
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.pdb
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\Morze.genruntimeconfig.cache
+D:\munkakönyvtár\Keszericze Ákos 12.C\AAF\2024-2025\Morze\obj\Debug\net8.0\ref\Morze.dll

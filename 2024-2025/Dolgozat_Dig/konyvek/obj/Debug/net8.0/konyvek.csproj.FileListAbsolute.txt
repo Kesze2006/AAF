@@ -1,0 +1,15 @@
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfoInputs.cache
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfo.cs
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.csproj.CoreCompileInputs.cache
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.sourcelink.json
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\bin\Debug\net8.0\konyvek.exe
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\bin\Debug\net8.0\konyvek.deps.json
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\bin\Debug\net8.0\konyvek.runtimeconfig.json
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\bin\Debug\net8.0\konyvek.dll
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\bin\Debug\net8.0\konyvek.pdb
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.dll
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\refint\konyvek.dll
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.pdb
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\konyvek.genruntimeconfig.cache
+C:\Akos\Ákos\Suli\2024-2025\AAF\2024-2025\Dolgozat_Dig\konyvek\obj\Debug\net8.0\ref\konyvek.dll

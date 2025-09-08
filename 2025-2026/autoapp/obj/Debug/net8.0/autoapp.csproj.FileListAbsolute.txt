@@ -1,0 +1,15 @@
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfoInputs.cache
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfo.cs
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.csproj.CoreCompileInputs.cache
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.sourcelink.json
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\bin\Debug\net8.0\autoapp.exe
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\bin\Debug\net8.0\autoapp.deps.json
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\bin\Debug\net8.0\autoapp.runtimeconfig.json
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\bin\Debug\net8.0\autoapp.dll
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\bin\Debug\net8.0\autoapp.pdb
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.dll
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\refint\autoapp.dll
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.pdb
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\autoapp.genruntimeconfig.cache
+C:\Keszericze Ákos\AAF\2025-2026\autoapp\obj\Debug\net8.0\ref\autoapp.dll

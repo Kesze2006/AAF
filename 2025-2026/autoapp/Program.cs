@@ -33,5 +33,10 @@ Console.WriteLine("Legsikeresebb márkák listája az eladott darabszám alapjá
 Dictionary<string,int> sikeresAutok = new Dictionary<string,int>();
 foreach (Auto auto in autok)
 {
-    
+    sikeresAutok.Add(auto.marka, auto.eladottDB);
+}
+var rendezet = sikeresAutok.OrderByDescending(auto => auto.Value);
+foreach (KeyValuePair<string, int> auto in rendezet)
+{
+    Console.WriteLine("\t - {0}: {1} darab",auto.Key,auto.Value);
 }

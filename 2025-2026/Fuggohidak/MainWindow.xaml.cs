@@ -20,5 +20,13 @@ namespace Fuggohidak
         {
             InitializeComponent();
         }
+        List<Fuggohid> hidak = Fuggohid.Olvas();
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            foreach (Fuggohid hid in hidak)
+            {
+                listaBox.Items.Add(hid.hidNeve);
+            }
+        }
     }
 }

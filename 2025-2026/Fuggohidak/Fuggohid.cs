@@ -17,7 +17,12 @@ namespace Fuggohidak
         public int atadasEve;
         public Fuggohid(string[] sor)
         {
-            
+            this.helyezes = int.Parse(sor[0]);
+            this.hidNeve = sor[1];
+            this.foldrajziHely = sor[2];
+            this.orszag = sor[3];
+            this.hossza = int.Parse(sor[4]);
+            this.atadasEve = int.Parse(sor[5]);
         }
 
         public static List<Fuggohid> Olvas()

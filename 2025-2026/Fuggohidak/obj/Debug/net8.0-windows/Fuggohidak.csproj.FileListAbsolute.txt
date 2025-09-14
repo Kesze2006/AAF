@@ -19,3 +19,26 @@ C:\Keszericze Ákos\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\refint\Fug
 C:\Keszericze Ákos\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.pdb
 C:\Keszericze Ákos\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.genruntimeconfig.cache
 C:\Keszericze Ákos\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\ref\Fuggohidak.dll
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.exe
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.deps.json
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.runtimeconfig.json
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.dll
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.pdb
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\App.g.cs
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.cache
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.lref
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.g.resources
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.AssemblyInfoInputs.cache
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.AssemblyInfo.cs
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.csproj.CoreCompileInputs.cache
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.sourcelink.json
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.dll
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\refint\Fuggohidak.dll
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.pdb
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.genruntimeconfig.cache
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\ref\Fuggohidak.dll
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Kereso.g.cs
+C:\Ákos\Suli\AAF\2025-2026\Fuggohidak\obj\Debug\net8.0-windows\Kereso.baml

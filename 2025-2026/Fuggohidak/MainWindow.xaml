@@ -4,9 +4,23 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fuggohidak"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+        mc:Ignorable="d" Height="565" Width="610" Loaded="Window_Loaded" Title="Függöhidak">
     <Grid>
-        <ListBox x:Name="listaBox" HorizontalAlignment="Left" Height="353" Margin="62,34,0,0" VerticalAlignment="Top" Width="452" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <ListBox x:Name="listaBox" HorizontalAlignment="Left" Height="225" Margin="10,51,0,0" VerticalAlignment="Top" Width="228" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="listaBox_SelectionChanged"/>
+        <Button Content="Keresés" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <Button Content="Kilépés" HorizontalAlignment="Left" Margin="71,10,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="Hely" HorizontalAlignment="Left" Margin="310,51,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="hely" HorizontalAlignment="Left" Margin="400,51,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="164" Height="26"/>
+        <Label Content="Ország" HorizontalAlignment="Left" Margin="310,101,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="orszag" HorizontalAlignment="Left" Margin="400,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="164" Height="26"/>
+        <Label Content="Hossz" HorizontalAlignment="Left" Margin="310,150,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="hossz" HorizontalAlignment="Left" Margin="400,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="164" Height="26"/>
+        <Label Content="Év" HorizontalAlignment="Left" Margin="310,212,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ev" HorizontalAlignment="Left" Margin="400,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="164" Height="26"/>
+        <Button Content="Kilépés" HorizontalAlignment="Left" Margin="369,352,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click_1"/>
+        <RadioButton Content="2000 előtt épült" HorizontalAlignment="Left" Margin="54,352,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton Content="2000-ben vagy utána" HorizontalAlignment="Left" Margin="54,389,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked_1"/>
+        <TextBox x:Name="darabSzam" HorizontalAlignment="Left" Margin="54,437,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="70" Height="25"/>
+        <Label Content="darab" HorizontalAlignment="Left" Margin="144,437,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

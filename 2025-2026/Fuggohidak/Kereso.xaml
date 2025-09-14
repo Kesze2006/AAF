@@ -1,0 +1,18 @@
+﻿<Window x:Class="Fuggohidak.Kereso"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fuggohidak"
+        mc:Ignorable="d"
+        Title="Keresés" Height="510" Width="800" Loaded="Window_Loaded">
+    <Grid Loaded="Grid_Loaded">
+        <TextBox x:Name="hidak" HorizontalAlignment="Left" Height="270" Margin="70,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="672"/>
+        <Label Content="Ország" HorizontalAlignment="Left" Margin="116,333,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="236,335,0,0" VerticalAlignment="Top" Width="120" DataContextChanged="comboBox_DataContextChanged"/>
+        <CheckBox x:Name="hossz" Content="1 km-nél hosszabbak" HorizontalAlignment="Left" Margin="116,379,0,0" VerticalAlignment="Top"/>
+        <Button Content="Keresés" HorizontalAlignment="Left" Margin="212,426,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Button Content="Bezárás" HorizontalAlignment="Left" Margin="424,426,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+    </Grid>
+</Window>

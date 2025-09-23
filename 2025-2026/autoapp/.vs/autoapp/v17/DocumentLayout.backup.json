@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "autoapp",
+              "Title": "autoapp.csproj",
               "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\autoapp\\autoapp.csproj",
               "RelativeDocumentMoniker": "autoapp.csproj",
               "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\autoapp\\autoapp.csproj",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Auto.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T11:24:32.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T11:24:32.956Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T11:09:01.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T11:09:01.637Z"
             }
           ]
         }

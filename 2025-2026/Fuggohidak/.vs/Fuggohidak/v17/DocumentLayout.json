@@ -1,26 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\",
+  "WorkspaceRootPath": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|c:\\\u00E1kos\\suli\\aaf\\2025-2026\\fuggohidak\\kereso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|solutionrelative:kereso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kereso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|c:\\\u00E1kos\\suli\\aaf\\2025-2026\\fuggohidak\\kereso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|solutionrelative:kereso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|c:\\\u00E1kos\\suli\\aaf\\2025-2026\\fuggohidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|solutionrelative:fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|c:\\\u00E1kos\\suli\\aaf\\2025-2026\\fuggohidak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|c:\\\u00E1kos\\suli\\aaf\\2025-2026\\fuggohidak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{596127BC-9F8B-47B9-93A3-0CFD14300243}|Fuggohidak.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kereso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +29,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Kereso.xaml.cs",
-              "DocumentMoniker": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml.cs",
               "RelativeDocumentMoniker": "Kereso.xaml.cs",
-              "ToolTip": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml.cs",
               "RelativeToolTip": "Kereso.xaml.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAiwEkAAAA5AAAA",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T09:52:33.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T09:52:33.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Kereso.xaml",
-              "DocumentMoniker": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml",
               "RelativeDocumentMoniker": "Kereso.xaml",
-              "ToolTip": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\Kereso.xaml",
               "RelativeToolTip": "Kereso.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-14T09:43:49.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Fuggohid.cs",
               "DocumentMoniker": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Fuggohid.cs",
-              "RelativeDocumentMoniker": "Fuggohid.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Fuggohid.cs",
               "ToolTip": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Fuggohid.cs",
-              "RelativeToolTip": "Fuggohid.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\Fuggohid.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:34:18.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:34:18.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-09T07:33:56.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:33:56.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\\u00C1kos\\Suli\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2025-2026\\Fuggohidak\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAIAAAA",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:33:55.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:33:55.046Z"
             }
           ]
         }

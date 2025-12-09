@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Akos\\\u00C1kos\\Suli\\2024-2025\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\",
+  "WorkspaceRootPath": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|c:\\akos\\\u00E1kos\\suli\\2024-2025\\aaf\\2024-2025\\dolgozat_dig\\konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|c:\\keszericze \u00E1kos\\aaf\\2024-2025\\dolgozat_dig\\konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|c:\\akos\\\u00E1kos\\suli\\2024-2025\\aaf\\2024-2025\\dolgozat_dig\\konyvek\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|c:\\keszericze \u00E1kos\\aaf\\2024-2025\\dolgozat_dig\\konyvek\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACF7E5AE-1738-4910-B6A9-2A6A5D859E63}|konyvek.csproj|solutionrelative:konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Konyv.cs",
-              "DocumentMoniker": "C:\\Akos\\\u00C1kos\\Suli\\2024-2025\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Konyv.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Konyv.cs",
               "RelativeDocumentMoniker": "Konyv.cs",
-              "ToolTip": "C:\\Akos\\\u00C1kos\\Suli\\2024-2025\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Konyv.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Konyv.cs",
               "RelativeToolTip": "Konyv.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T19:25:10.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T19:25:10.14Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Akos\\\u00C1kos\\Suli\\2024-2025\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Program.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Akos\\\u00C1kos\\Suli\\2024-2025\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Program.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\Dolgozat_Dig\\konyvek\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAwIUAAAAJAAAA",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwIUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T19:21:42.775Z",
               "EditorCaption": ""

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\aknaKereso\obj\Debug\net8.0-windows\
+C:\Keszericze Ákos\AAF\2024-2025\aknaKereso\obj\Debug\net8.0-windows\
 aknaKereso
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\munkakönyvtár\Keszericze Ákos\AAF\2024-2025\aknaKereso\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Keszericze Ákos\AAF\2024-2025\aknaKereso\App.xaml
 11407045341
 
 4-145238445
-198-635017904
+198-2136442823
 MainWindow.xaml;
 
 False

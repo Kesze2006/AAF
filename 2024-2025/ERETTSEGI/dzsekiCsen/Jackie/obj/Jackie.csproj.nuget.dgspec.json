@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj": {}
+    "C:\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj": {
+    "C:\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj",
+        "projectUniqueName": "C:\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj",
         "projectName": "Jackie",
-        "projectPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj",
-        "packagesPath": "C:\\Users\\keszericzea21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\obj\\",
+        "projectPath": "C:\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\Jackie.csproj",
+        "packagesPath": "C:\\Users\\kesze\\.nuget\\packages\\",
+        "outputPath": "C:\\Keszericze Ákos\\AAF\\2024-2025\\ERETTSEGI\\dzsekiCsen\\Jackie\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\keszericzea21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kesze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Keszericze Ákos\AAF\2025-2026\ascii\bin\Debug\net8.0\ascii.exe
+C:\Keszericze Ákos\AAF\2025-2026\ascii\bin\Debug\net8.0\ascii.deps.json
+C:\Keszericze Ákos\AAF\2025-2026\ascii\bin\Debug\net8.0\ascii.runtimeconfig.json
+C:\Keszericze Ákos\AAF\2025-2026\ascii\bin\Debug\net8.0\ascii.dll
+C:\Keszericze Ákos\AAF\2025-2026\ascii\bin\Debug\net8.0\ascii.pdb
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.AssemblyInfoInputs.cache
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.AssemblyInfo.cs
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.csproj.CoreCompileInputs.cache
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.sourcelink.json
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.dll
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\refint\ascii.dll
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.pdb
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ascii.genruntimeconfig.cache
+C:\Keszericze Ákos\AAF\2025-2026\ascii\obj\Debug\net8.0\ref\ascii.dll

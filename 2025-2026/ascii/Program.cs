@@ -75,6 +75,7 @@ w.Close();
 Console.WriteLine(rajz);
 
 //5.feladat
+
 Console.WriteLine("5.feladat");
 Console.Write("Kérem adja meg a tömörített ábra fájlnevét: ");
 string tomoritett = Console.ReadLine();
@@ -93,3 +94,7 @@ Console.WriteLine("6.feladat");
 string[] sorok = File.ReadAllLines("konyv.txt");
 int sorokSzama = sorok.Length;
 Console.WriteLine("Az ábra magassága sorokban: {0}",sorokSzama);
+Console.WriteLine("Az ábra szélessége karakterekben: {0}",sorok
+    .OrderByDescending(s => s.Length)
+    .First().Length);
+//Nem éretem mi az a blokk

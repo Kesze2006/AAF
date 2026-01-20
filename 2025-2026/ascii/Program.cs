@@ -97,4 +97,3 @@ Console.WriteLine("Az ábra magassága sorokban: {0}",sorokSzama);
 Console.WriteLine("Az ábra szélessége karakterekben: {0}",sorok
     .OrderByDescending(s => s.Length)
     .First().Length);
-//Nem éretem mi az a blokk

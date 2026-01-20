@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "szorzasGyak/1.0.0": {
+        "runtime": {
+          "szorzasGyak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "szorzasGyak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

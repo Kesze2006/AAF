@@ -29,4 +29,4 @@ namespace szorzasGyak
             panel.Children.Add(df);
         }
     }
-}
+}       

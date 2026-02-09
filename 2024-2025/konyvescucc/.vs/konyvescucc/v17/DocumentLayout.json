@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\",
+  "WorkspaceRootPath": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A56F42A-E05B-407B-8607-89B0C334454E}|konyvescucc.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos\\aaf\\2024-2025\\konyvescucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A56F42A-E05B-407B-8607-89B0C334454E}|konyvescucc.csproj|c:\\keszericze \u00E1kos\\aaf\\2024-2025\\konyvescucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A56F42A-E05B-407B-8607-89B0C334454E}|konyvescucc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\Program.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\konyvescucc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T11:03:48.596Z",
               "EditorCaption": ""

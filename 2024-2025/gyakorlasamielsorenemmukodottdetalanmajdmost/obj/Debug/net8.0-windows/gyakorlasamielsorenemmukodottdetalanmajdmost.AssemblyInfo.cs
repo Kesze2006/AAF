@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gyakorlasamielsorenemmukodottdetalanmajdmost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed918589216391a67e50ee7e96afec8370879d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b1119bf35a64b4228c72c3b60815e1dfcb2003")]
 [assembly: System.Reflection.AssemblyProductAttribute("gyakorlasamielsorenemmukodottdetalanmajdmost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gyakorlasamielsorenemmukodottdetalanmajdmost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

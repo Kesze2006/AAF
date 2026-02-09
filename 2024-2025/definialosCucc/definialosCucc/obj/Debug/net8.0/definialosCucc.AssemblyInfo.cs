@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("definialosCucc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149b2773b9e0144906f599455c29bd372fdc6581")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b1119bf35a64b4228c72c3b60815e1dfcb2003")]
 [assembly: System.Reflection.AssemblyProductAttribute("definialosCucc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("definialosCucc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

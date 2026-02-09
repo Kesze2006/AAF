@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rekurzivSzoveg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dc81a39892a0ae8b849c0df08e8b396cad6379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b1119bf35a64b4228c72c3b60815e1dfcb2003")]
 [assembly: System.Reflection.AssemblyProductAttribute("rekurzivSzoveg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rekurzivSzoveg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

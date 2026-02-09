@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\definialosCucc\\",
+  "WorkspaceRootPath": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\definialosCucc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\definialoscucc\\definialoscucc\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|solutionrelative:definialoscucc\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|c:\\keszericze \u00E1kos\\aaf\\2024-2025\\definialoscucc\\definialoscucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|solutionrelative:definialoscucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|d:\\munkak\u00F6nyvt\u00E1r\\keszericze \u00E1kos 12.c\\aaf\\2024-2025\\definialoscucc\\definialoscucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|solutionrelative:definialoscucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|c:\\keszericze \u00E1kos\\aaf\\2024-2025\\definialoscucc\\definialoscucc\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C83AFC5-877C-4000-9F54-130A245652F4}|definialosCucc\\definialosCucc.csproj|solutionrelative:definialoscucc\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +21,30 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pont.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Pont.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Pont.cs",
               "RelativeDocumentMoniker": "definialosCucc\\Pont.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Pont.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Pont.cs",
               "RelativeToolTip": "definialosCucc\\Pont.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwGQAAAAsAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T13:04:45.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Program.cs",
+              "DocumentMoniker": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Program.cs",
               "RelativeDocumentMoniker": "definialosCucc\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Keszericze \u00C1kos 12.C\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Program.cs",
+              "ToolTip": "C:\\Keszericze \u00C1kos\\AAF\\2024-2025\\definialosCucc\\definialosCucc\\Program.cs",
               "RelativeToolTip": "definialosCucc\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:04:15.019Z"
+              "WhenOpened": "2024-11-11T13:04:15.019Z",
+              "EditorCaption": ""
             }
           ]
         }

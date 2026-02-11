@@ -1,4 +1,5 @@
 ﻿using konyvek;
+using static System.Reflection.Metadata.BlobBuilder;
 
 //1.feladat
 List<konyv> konyvek =  new List<konyv>();
@@ -116,25 +117,12 @@ File.WriteAllText("tabla.html", tablazat);
 //6.feladat
 Console.WriteLine("6.feladat: ");
 Console.WriteLine("Legalább kétszer, nagyobb példányszámban újra kiadott könyvek: ");
-List<string> leiras = new List<string>();
-foreach (konyv x in konyvek)
-{
-    leiras.Add(x.leiras);
-}
+var megoldas = konyvek
+    .GroupBy(b => b.leiras)
+    .Where(g => g.Count(x => x.peldanyszam > g.OrderBy(y => y.kiadasEv).ThenBy(y => y.kiadasNegyedEv).First().peldanyszam) >= 2)
+    .Select(g => g.Key);
 
-for (int i = 0; i < leiras.Count; i++)
+foreach (var k in megoldas)
 {
-    db = 0;
-    foreach (konyv x in konyvek)
-    {
-        if (x.leiras == leiras[i])
-        {
-            db++;
-        }
-    }
-    db--;
-    if (db >= 2)
-    {
-        Console.WriteLine(leiras[i]);
-    }
+    Console.WriteLine(k);
 }
